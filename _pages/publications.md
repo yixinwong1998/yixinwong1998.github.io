@@ -5,12 +5,137 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
 
-{% include base_path %}
+------------------
+# *<font color=green>@Journal Papers</font>*
+<table style="width:100%;border:None;border-spacing:0px;border-collapse:separate;margin-right:0;margin-left:0;font-size:0.95em;">
+  <tr>
+    <td style="padding:10px;width:70%;vertical-align:middle;border-right:none;border-bottom:none;">
+      <b>Multicriteria Recommendation Based on Bacterial Foraging Optimization</b>
+      <br>
+      Shuang Geng, Xiaofu He, <u><b><i>Yixin Wang</i></b></u>, Hong Wang*, Ben Niu, Kris M. Law.
+      <br>
+      <i><b>International Journal of Intelligent Systems</b> 37, no. 2 (2022): 1618-1645. (<b>JCR Q1</b>)</i>. 
+      <br>
+      [<a href="\../files/Multicriteria Recommendation Based on Bacterial Foraging Optimization.pdf">PDF</a>]
+      [<a href="https://doi.org/10.1002/int.22688">Link</a>]
+    </td>
+    <td style="padding:10px;width:30%;vertical-align:middle;border-right:none;border-bottom:none;">
+      <a href="/images/HFS_nondominated_ranking.png">
+      <img src='/images/HFS_nondominated_ranking.png' width="300">
+      </a>
+    </td>
+  </tr>
+</table>
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+------------------
+# *<font color=green>@Conference Papers</font>*
+<table style="width:100%;border:None;border-spacing:0px;border-collapse:separate;margin-right:0;margin-left:0;font-size:0.95em;">
+  <tr>
+    <td style="padding:10px;width:70%;vertical-align:middle;border-right:none;border-bottom:none;">
+      <b>A Multi-objective Structure Variant Bacterial Heuristic Feature Selection Method in High-dimensional Data Classification</b>
+      <br>
+      Hong Wang, Yikun Ou, and <u><b><i>Yixin Wang*</i></b></u>.
+      <br>
+      <i>In International Conference on Data Mining and Big Data, 2021. (<b>DBMD 2021</b>)</i>. 
+      <br>
+      [<a href="\../files/A Multi-objective Structure Variant Bacterial Heuristic Feature Selection Method in High-dimensional Data Classification.pdf">PDF</a>]
+      [<a href="https://link.springer.com/chapter/10.1007/978-981-16-7502-7_34">Link</a>]
+      [<a href="http://www.iasei.org/dmbd2021/">DMBD 2021</a>]
+    </td>
+    <td style="padding:10px;width:30%;vertical-align:middle;border-right:none;border-bottom:none;">
+      <a href="/images/dmbd.png">
+      <img src='/images/dmbd.png' width="300">
+      </a>
+    </td>
+  </tr>
+</table>
+
+------------------
+<table style="width:100%;border:None;border-spacing:0px;border-collapse:separate;margin-right:0;margin-left:0;font-size:0.95em;">
+  <tr>
+    <td style="padding:10px;width:70%;vertical-align:middle;border-right:none;border-bottom:none;">
+      <b>Bacterial Foraging Optimization with Leader Selection Strategy for Bi-objective Optimization</b>
+      <br>
+      Hong Wang, <u><b><i>Yixin Wang</i></b></u>, and Yikun Ou*.
+      <br>
+      <i>In International Conference on Swarm Intelligence, 2021. (<b>ICSI 2021</b>)</i>. 
+      <br>
+      [<a href="\../files/Bacterial Foraging Optimization with Leader Selection Strategy for Biobjective Optimization.pdf">PDF</a>]
+      [<a href="https://link.springer.com/chapter/10.1007/978-3-030-78743-1_47">Link</a>]
+      [<a href="http://www.iasei.org/icsi2021/">ICSI 2021</a>]
+    </td>
+    <td style="padding:10px;width:30%;vertical-align:middle;border-right:none;border-bottom:none;">
+      <a href="/images/icsi2021.png">
+      <img src='/images/icsi2021.png' width="300">
+      </a>
+    </td>
+  </tr>
+</table>
+
+------------------
+<table style="width:100%;border:None;border-spacing:0px;border-collapse:separate;margin-right:0;margin-left:0;font-size:0.95em;">
+  <tr>
+    <td style="padding:10px;width:70%;vertical-align:middle;border-right:none;border-bottom:none;">
+      <b>An Empirical Study of Social E-commerce Platform on Users' Intention: Take WeChat E-commerce Group as an Example</b>
+      <br>
+      Hong Wang, <u><b><i>Yixin Wang</i></b></u>, Ting Guo, Yibin Wang and Yikun Ou*.
+      <br>
+      <i>In International Conference on E-business, Management, and Economics. 2020 (<b>ICEME 2021</b>)</i>. 
+      <br>
+      [<a href="\../files/An Empirical Study of Social E-commerce Platform on Users' Intention Take WeChat E-commerce Group as an Example.pdf">PDF</a>]
+      [<a href="https://doi.org/10.1145/3481127.3481237">Link</a>]
+      [<a href="http://www.iceme.org/">ICEME 2021</a>]
+    </td>
+    <td style="padding:10px;width:30%;vertical-align:middle;border-right:none;border-bottom:none;">
+      <a href="/images/iceme2021.png">
+      <img src='/images/iceme2021.png' width="300">
+      </a>
+    </td>
+  </tr>
+</table>
+
+------------------
+<table style="width:100%;border:None;border-spacing:0px;border-collapse:separate;margin-right:0;margin-left:0;font-size:0.95em;">
+  <tr>
+    <td style="padding:10px;width:70%;vertical-align:middle;border-right:none;border-bottom:none;">
+      <b>Feature Selection for Image Classification Based on Bacterial Colony Optimization</b>
+      <br>
+      Hong Wang, Zhuo Zhou, <u><b><i>Yixin Wang</i></b></u>, and Xiaohui Yan*.
+      <br>
+      <i>In International Conference on Swarm Intelligence, 2021. (<b>ICSI 2021</b>)</i>. 
+      <br>
+      [<a href="\../files/Feature Selection for Image Classification Based on Bacterial Colony Optimization.pdf">PDF</a>]
+      [<a href="https://doi.org/10.1007/978-3-030-78811-7_40">Link</a>]
+      [<a href="http://www.iasei.org/icsi2021/">ICSI 2021</a>]
+    </td>
+    <td style="padding:10px;width:30%;vertical-align:middle;border-right:none;border-bottom:none;">
+      <a href="/images/fsimage.png">
+      <img src='/images/fsimage.png' width="300">
+      </a>
+    </td>
+  </tr>
+</table>
+
+------------------
+# *<font color=green>@Others</font>*
+<table style="width:100%;border:None;border-spacing:0px;border-collapse:separate;margin-right:0;margin-left:0;font-size:0.95em;">
+  <tr>
+    <td style="padding:5px;width:70%;vertical-align:middle;border-right:none;border-bottom:none;">
+      <b>Discussion on Teaching Methods Combining Theory And Practice—taking Cybersecurity and E-commerce Courses As An Example</b> 
+      <br>
+      Hong Wang, <b><u><i>Yixin Wang</i></u></b>, Ben Niu
+      and Menglong Liu*.
+      <br>
+      <i>The Management World We Explore, Collection of Teaching Research in School of Management, Shenzhen University, 2021</i>. 
+      <br>
+      [PDF]
+      [Link]
+    </td>
+    <td style="padding:10px;width:30%;vertical-align:middle;border-right:none;border-bottom:none;">
+      <a href="/images/jglw.jpg">
+      <img src='/images/jglw.jpg' width="300">
+      </a>
+    </td>
+  </tr>
+</table>
