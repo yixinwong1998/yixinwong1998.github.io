@@ -16,7 +16,7 @@ redirect_from:
     &nbsp;
     [<a href="/files/CV/yixinwangCV - eng.pdf">English</a>]
     &nbsp;
-    [<a href="/files/yixinwangCV - cn.pdf">中文</a>]
+    [<a href="/files/CV/yixinwangCV - cn.pdf">中文</a>]
 </b>
 
 ----
