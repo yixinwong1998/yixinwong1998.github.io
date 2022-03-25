@@ -22,7 +22,7 @@ author_profile: true
 * 🥊 2021.11.25 – 2021.11.29
 * **Advisor:** Prof. Ben Niu
 * **Key Accomplishment:**\
-  **@** •	This project studied the relationship between the emission spectrum and the material properties for single structure and multiple structure respectively, meanwhile, the **multi-objective optimization model** was constructed to optimize the design of thermal emitters under different emission spectrum requirements. \
+  **@**	This project studied the relationship between the emission spectrum and the material properties for single structure and multiple structure respectively, meanwhile, the **multi-objective optimization model** was constructed to optimize the design of thermal emitters under different emission spectrum requirements.
 * **Works:** \
   **@** Problem analysis and identification of key factors. \
   **@** Optimization model construction for single layer and multilayer structure. \
@@ -37,8 +37,8 @@ author_profile: true
 ------------------
 * 🧱 2021.10.14 – 2021.10.18
 * **Advisor:** Prof. Ben Niu
-* **:**\
-* **@** Based on the information provided for ERα antagonists (1974 compound samples, each with 729 molecular descriptor variables, 1 bioactivity data, and 5 ADMET property data), **quantitative prediction model** for compound bioactivity and **categorical prediction model** for ADMET properties were constructed to provide prediction services for simultaneous optimization of ERα antagonists' bioactivity and ADMET properties.\
+* **Key Accomplishment:**\
+* **@** Based on the information provided for ERα antagonists (1974 compound samples, each with 729 molecular descriptor variables, 1 bioactivity data, and 5 ADMET property data), **quantitative prediction model** for compound bioactivity and **categorical prediction model** for ADMET properties were constructed to provide prediction services for simultaneous optimization of ERα antagonists' bioactivity and ADMET properties.
 * **Works:** \
   **@** Problem analysis and identification of key factors. \
   **@** Data preprocessing, Machine learning model construction. \

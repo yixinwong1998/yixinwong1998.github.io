@@ -14,9 +14,9 @@ redirect_from:
 <b style="font-size: 1.8em;">
     PDF:
     &nbsp;
-    [<a href="/files/Multicriteria Recommendation Based on Bacterial Foraging Optimization.pdf">English</a>]
+    [<a href="/files/CV/yixinwangCV - eng.pdf">English</a>]
     &nbsp;
-    [<a href="/files/Multicriteria Recommendation Based on Bacterial Foraging Optimization.pdf">中文</a>]
+    [<a href="/files/yixinwangCV - cn.pdf">中文</a>]
 </b>
 
 ----
