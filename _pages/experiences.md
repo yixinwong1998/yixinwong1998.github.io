@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ------------------
-# 📚 Application for National Natural Science Foundation of China，NSFC
+## 📚 Application for National Natural Science Foundation of China，NSFC
 ------------------
 * ✍️ Jan. 2022 - Mar. 2022
 * **Advisor:** Prof. Hong Wang
@@ -17,11 +17,11 @@ author_profile: true
     **@** To design **dynamic adaptive strategies** for scene-oriented colony systems for achieving adaptability and autonomy to real-world application problems.
 
 ------------------
-# 🏆 Optimal Design of Thermal Emitter in Thermophotovoltaic Technology (APMCM)
+## 🏆 Optimal Design of Thermal Emitter in Thermophotovoltaic Technology (APMCM)
 ------------------
 * 🥊 2021.11.25 – 2021.11.29
 * **Advisor:** Prof. Ben Niu
-* **Key Accomplishment:**\
+* **Key Accomplishment:** \
   **@**	This project studied the relationship between the emission spectrum and the material properties for single structure and multiple structure respectively, meanwhile, the **multi-objective optimization model** was constructed to optimize the design of thermal emitters under different emission spectrum requirements.
 * **Works:** \
   **@** Problem analysis and identification of key factors. \
@@ -33,12 +33,12 @@ author_profile: true
 </center>
 
 ------------------
-# 🏆 Identification and Screening of Anti-Breast Cancer Drug Candidates ("Huawei Cup")
+## 🏆 Identification and Screening of Anti-Breast Cancer Drug Candidates ("Huawei Cup")
 ------------------
 * 🧱 2021.10.14 – 2021.10.18
 * **Advisor:** Prof. Ben Niu
-* **Key Accomplishment:**\
-* **@** Based on the information provided for ERα antagonists (1974 compound samples, each with 729 molecular descriptor variables, 1 bioactivity data, and 5 ADMET property data), **quantitative prediction model** for compound bioactivity and **categorical prediction model** for ADMET properties were constructed to provide prediction services for simultaneous optimization of ERα antagonists' bioactivity and ADMET properties.
+* **Key Accomplishment:** \
+ **@** Based on the information provided for ERα antagonists (1974 compound samples, each with 729 molecular descriptor variables, 1 bioactivity data, and 5 ADMET property data), **quantitative prediction model** for compound bioactivity and **categorical prediction model** for ADMET properties were constructed to provide prediction services for simultaneous optimization of ERα antagonists' bioactivity and ADMET properties.
 * **Works:** \
   **@** Problem analysis and identification of key factors. \
   **@** Data preprocessing, Machine learning model construction. \
@@ -49,7 +49,7 @@ author_profile: true
 </center>
   
 ------------------
-# 📕 The Monograph "Theory and Practice of Novel feature selection Based on Bacterial Colony" Compiling
+## 📕 The Monograph "Theory and Practice of Novel feature selection Based on Bacterial Colony" Compiling
 ------------------
 * ✍️ Dec. 2020 – May 2021
 * **Advisor:** Prof. Hong Wang
@@ -61,7 +61,7 @@ author_profile: true
 </center>
 
 ------------------
-# 🏆 "Dongguan TaiLiang Cup" Marketing Planning Competition
+## 🏆 "Dongguan TaiLiang Cup" Marketing Planning Competition
 ------------------
 * 📅 Mar. 2017 – Apr. 2021
 * **Core Member**

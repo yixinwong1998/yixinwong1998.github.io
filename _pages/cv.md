@@ -20,19 +20,19 @@ redirect_from:
 </b>
 
 ----
-# Education
+## Education
 ----
 * 👨‍💻 Step. 2020 - Present
 * M.S. in Management Science and Engineering, [College of Management](http://cm.szu.edu.cn/), [Shenzhen University](https://en.szu.edu.cn/)
-  * GPA: **3.52/4.0 (85.9/100)**
+  * GPA: **3.52/4.5 (85.9/100)**
   * Supervisor: [Prof. Hong Wang](https://ma.szu.edu.cn/szll1/axx/glkxx/wh.htm)
 * 👨‍🎓 Step. 2016 - Jun. 2020
 * B.S. in Industrial Engineering, [School of Mechanical Engineering](https://jxx.dgut.edu.cn/), [Dongguan University of Technology](https://www.dgut.edu.cn/)
-  * GPA: **3.90/5.0**   Rank: **1/123**
+  * GPA: **3.90/5.0**  Rank: **1/123**
   * Supervisor: [Prof. Xiaohui Yan](https://jxx.dgut.edu.cn/info/1017/6460.htm)
 
 ---
-# Work Experiences
+## Work Experiences
 ---
 
 * 👨‍🏫 **Adjunct Lecturer** (Spring 2022)
@@ -54,17 +54,17 @@ redirect_from:
   * *Duties*: Store sales jobs; Layout design; Sales achievement assistance.
 
 ---
-# Publications
+## Publications
 ---
 ### @Journal Papers:
 
 [1] Shuang Geng, Xiaofu He, ***<u>Yixin Wang</u>***, Hong Wang, Ben Niu, Kris M. Law. "Multicriteria Recommendation Based on Bacterial Foraging Optimization." *International Journal of Intelligent Systems* 37, no. 2 (2022): 1618-1645. (***JCR Q1***)
 
-[2] Hong Wang *(Advisor)*, Yikun Ou, ***<u>Yixin Wang</u>***, Lijing Tan, Ben Niu. "Imbalanced Customer Classification based on Semi-supervised Bacterial Heuristic Feature Selection." *International Journal of Intelligent Systems*. (***JCR Q1***) (Under the first round of review).
+[2] Hong Wang *(Advisor)*, ***<u>Yixin Wang</u>***, Tianwei Zhou, Ben Niu\*. "A Population based Bacterial Colony Optimization with Dynamic Multi-Leader Co-evolution for Multi-Objective Optimization Problems." (SCI, under review)
 
-[3] Hong Wang *(Advisor)*, ***<u>Yixin Wang</u>***, Yikun Ou, Ben Niu\*. "A Multi-Objective Bacterial Colony Optimization with Dynamic MultiLeader Co-evolution." (In submission to international journal)
+[3] Hong Wang *(Advisor)*, ***<u>Yixin Wang</u>***, Sili Wen, Ben Niu\*. "Multi-objective Stochastic Service Network Optimization for Resource Allocation in Medical Alliance." (SCI, under review)
 
-[4] Hong Wang *(Advisor)*, ***<u>Yixin Wang</u>***, Sili Wen, Ben Niu\*. "Multi-objective Stochastic Service Network Optimization for Resource Allocation in Medical Alliance." (In submission to international journal)
+[4] Hong Wang *(Advisor)*, Yikun Ou, ***<u>Yixin Wang</u>***, Lijing Tan, Ben Niu. "Imbalanced Customer Classification based on Semi-supervised Bacterial Heuristic Feature Selection." (SCI, under review)
 
 ### @Conference Papers:
 
@@ -81,7 +81,7 @@ redirect_from:
 [1] Hong Wang *(Advisor)*, ***<u>Yixin Wang</u>***, Niu Ben, Menglong Liu\*. "Discussion on Teaching Methods Combining Theory And Practice—taking Cybersecurity and E-commerce Courses As An Example." *The Management World We Explore, Collection of Teaching Research in School of Management, Shenzhen University, 2021.
 
 ----
-# Selected Honors
+## Selected Honors
 
 ### 🏅Excellent Postgraduate Scholarship，Second Prize by SZU (2021)
 
@@ -98,17 +98,18 @@ redirect_from:
 ### 🏅Advanced Outstanding Student，by DGUT (2017)
 
 ----
-# Skills
+## Skills
 ----
 * 💻 Programming languages, mainly using python and matlab.
 * ✍ Willing to learn and use various professional computer tools.
 * 💖 Passionate and hard-working person.
 
 ----
-# Service and Leadership
+## Service and Leadership
 ----
 * 🙋‍♂️ **Conference Reviewer** (At present)
   * Serve as a reviewer for International Conference on Swarm Intelligence
+
 * 🙋‍♂️ **Research Assistant** (2021.03 ~ 2022.03)
   * Greater Bay Area International Institute for Innovation, Shenzhen University
   * Duties: Assistance and arrangement of teaching and research activities; Promotion, Publicity
@@ -124,7 +125,7 @@ redirect_from:
 
 * 🙋‍♂️ **Teaching and Lab Assistant** (2017.09 ~ 2019.03)
   * Department of Industrial Engineering, School of Mechanical Engineering, DGUT
-  * *Duties*: Compilation of teaching materials; Teaching assistance.
+  * *Duties*: Research assistance; Teaching assistance.
   * *Honors*: Outstanding Student Leader, by DGUT (2018)
   
 * 🙋‍♂️ **University Youth Committee Officer** (2016.10 ~ 2017.06)

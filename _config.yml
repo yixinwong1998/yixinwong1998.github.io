@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yixin Wang (王亿鑫)"
 title_separator          : "-"
 name                     : &name "Yixin Wang"
-description              : &description "Learn and live, pursue breakthroughs in your life."
+description              : &description "“To learn, to live, to pursue breakthroughs in your life”"
 url                      : https://yixinwong1998.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yixinwong1998/yixinwong1998.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Yixin Wang (王亿鑫)"
   avatar           : "wangyixin.png"
-  bio              : "Learn and live, pursue breakthroughs in your life."
+  bio              : "“To learn, to live, to pursue breakthroughs in your life”"
   location         : "Shenzhen, Guangdong, China"
   employer         : "Shenzhen University"
   employer_site    : "https://en.szu.edu.cn/"
@@ -97,7 +97,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "yixinwong1998"
+  github           : # "yixinwong1998"
   google_plus      :
   keybase          :
   instagram        :

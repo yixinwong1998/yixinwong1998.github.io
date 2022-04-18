@@ -7,7 +7,7 @@ author_profile: true
 
 
 ------------------
-# *<font color=green>@Journal Papers</font>*
+## *<font color=green>@Journal Papers</font>*
 <table style="width:100%;border:None;border-spacing:0px;border-collapse:separate;margin-right:0;margin-left:0;font-size:0.95em;">
   <tr>
     <td style="padding:10px;width:70%;vertical-align:middle;border-right:none;border-bottom:none;">
@@ -28,8 +28,49 @@ author_profile: true
   </tr>
 </table>
 
+<table style="width:100%;border:None;border-spacing:0px;border-collapse:separate;margin-right:0;margin-left:0;font-size:0.95em;">
+  <tr>
+    <td style="padding:10px;width:70%;vertical-align:middle;border-right:none;border-bottom:none;">
+      <b>A Population based Bacterial Colony Optimization with Dynamic Multi-Leader Co-evolution for Multi-Objective Optimization Problems</b>
+      <br>
+      Hong Wang, <u><b><i>Yixin Wang</i></b></u>, Tianwei Zhou, Ben Niu*. <i><b>(SCI) (under review)</b></i>.
+      <br>
+      [<a href="\../files/MBCODML.pdf">PPT</a>]
+    </td>
+    <td style="padding:10px;width:30%;vertical-align:middle;border-right:none;border-bottom:none;">
+    </td>
+  </tr>
+</table>
+
+<table style="width:100%;border:None;border-spacing:0px;border-collapse:separate;margin-right:0;margin-left:0;font-size:0.95em;">
+  <tr>
+    <td style="padding:10px;width:70%;vertical-align:middle;border-right:none;border-bottom:none;">
+      <b>Multi-objective Stochastic Service Network Optimization for Resource Allocation in Medical Alliance</b>
+      <br>
+      Hong Wang, <u><b><i>Yixin Wang</i></b></u>, Sili Wen, Ben Niu*. <i><b>(SCI) (under review)</b></i>.
+      <br>
+      [<a href="\../files/MOSSNORAMA.pdf">PPT</a>]
+    </td>
+    <td style="padding:10px;width:30%;vertical-align:middle;border-right:none;border-bottom:none;">
+    </td>
+  </tr>
+</table>
+
+<table style="width:100%;border:None;border-spacing:0px;border-collapse:separate;margin-right:0;margin-left:0;font-size:0.95em;">
+  <tr>
+    <td style="padding:10px;width:70%;vertical-align:middle;border-right:none;border-bottom:none;">
+      <b>Imbalanced Customer Classification based on Semi-supervised Bacterial Heuristic Feature Selection</b>
+      <br>
+      Hong Wang, Yikun Ou, <u><b><i>Yixin Wang</i></b></u>, Lijing Tan, Ben Niu*. <i><b>(SCI) (under review)</b></i>.
+      <br>
+    </td>
+    <td style="padding:10px;width:30%;vertical-align:middle;border-right:none;border-bottom:none;">
+    </td>
+  </tr>
+</table>
+
 ------------------
-# *<font color=green>@Conference Papers</font>*
+## *<font color=green>@Conference Papers</font>*
 <table style="width:100%;border:None;border-spacing:0px;border-collapse:separate;margin-right:0;margin-left:0;font-size:0.95em;">
   <tr>
     <td style="padding:10px;width:70%;vertical-align:middle;border-right:none;border-bottom:none;">
@@ -118,7 +159,7 @@ author_profile: true
 </table>
 
 ------------------
-# *<font color=green>@Others</font>*
+## *<font color=green>@Others</font>*
 <table style="width:100%;border:None;border-spacing:0px;border-collapse:separate;margin-right:0;margin-left:0;font-size:0.95em;">
   <tr>
     <td style="padding:5px;width:70%;vertical-align:middle;border-right:none;border-bottom:none;">
