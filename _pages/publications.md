@@ -102,7 +102,7 @@ author_profile: true
       <br>
       <i>In International Conference on Swarm Intelligence, 2021. (<b>ICSI 2021</b>)</i>. 
       <br>
-      [<a href="\../files/Bacterial Foraging Optimization with Leader Selection Strategy for Biobjective Optimization.pdf">PDF</a>]
+      [<a href="\../files/Bacterial Foraging Optimization with Leader Selection Strategy for Bi-Objective Optimization.pdf">PDF</a>]
       [<a href="https://link.springer.com/chapter/10.1007/978-3-030-78743-1_47">Link</a>]
       [<a href="http://www.iasei.org/icsi2021/">ICSI 2021</a>]
     </td>
