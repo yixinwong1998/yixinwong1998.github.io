@@ -25,11 +25,12 @@ Yixin's research interests include **Evolutionary Computation (EC)**; **Swarm In
 <h2 style="color: rgb(231, 65, 65);"><b>News:</b></h2>
 <div style="line-height: 1.5em; font-size: 0.95em">
   <p>
-  <b>[10/2021]</b> Work on "Multicriteria Recommendation Based on Bacterial Foraging Optimization" was accepted by International Journal of Intelligent Systems(JCR Q1).<br>
-  <b>[05/2021]</b> Work on "A Multi-objective Structure Variant Bacterial Heuristic Feature Selection Method in High-dimensional Data Classification" was accepted by DMBD 2021.<br>
-  <b>[05/2021]</b> Work on "An Empirical Study of Social E-commerce Platform on Users’ Intention: Take WeChat E-commerce Group as an Example" was accepted by ICEME 2021.<br>
-  <b>[04/2021]</b> Work on "Feature Selection for Image Classification Based on Bacterial Colony Optimization" was accepted by ICSI 2021.<br>
-  <b>[04/2021]</b> Work on "Bacterial Foraging Optimization with Leader Selection Strategy for Bi-objective Optimization" was accepted by ICSI 2021.<br>
+  <b>[05/2022]</b> Work on "Multi-objective Bacterial Colony Optimization Based on Multi-subsystem for Environmental Economic Dispatching" was accepted by <i><b>ICSI 2022</b></i>.<br>
+  <b>[10/2021]</b> Work on "Multicriteria Recommendation Based on Bacterial Foraging Optimization" was accepted by <i><b>International Journal of Intelligent Systems</b></i>.<br>
+  <b>[05/2021]</b> Work on "A Multi-objective Structure Variant Bacterial Heuristic Feature Selection Method in High-dimensional Data Classification" was accepted by <i><b>DMBD 2021</b></i>.<br>
+  <b>[05/2021]</b> Work on "An Empirical Study of Social E-commerce Platform on Users’ Intention: Take WeChat E-commerce Group as an Example" was accepted by <i><b>ICEME 2021</b></i>.<br>
+  <b>[04/2021]</b> Work on "Feature Selection for Image Classification Based on Bacterial Colony Optimization" was accepted by <i><b>ICSI 2021</b></i>.<br>
+  <b>[04/2021]</b> Work on "Bacterial Foraging Optimization with Leader Selection Strategy for Bi-objective Optimization" was accepted by <i><b>ICSI 2021</b></i>.<br>
   <b>[09/2020]</b> My Master's journey started from Shenzhen University.<br>
   <b>[06/2020]</b> I received my B.Sc. degree in management from Dongguan University of Technology.<br>
   </p>
