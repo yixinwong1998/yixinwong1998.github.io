@@ -11,7 +11,7 @@ redirect_from:
 ![BSc](https://img.shields.io/badge/B.Sc.-Dongguan University of Technology(2016--2020)-yellowgreen?style=flat-square&color=181717&labelColor=red)
 ![MSc](https://img.shields.io/badge/M.Sc.-Shenzhen University(2020--present)-brightgreen?style=flat-square&color=181717&labelColor=blueviolet)
 # Glad to meet you~
-Yixin now is an M.Sc student majoring in management science and engineering, who mainly focused on the field of intelligent optimization theories and their applications. Recently, his work includes the design and development of swarm bionic intelligent optimization algorithms. As a cross-disciplinary student, he is passionate about learning, practicing and exploring some novel computer science techniques and tools, and trying to apply or improve them. In the future, he hopes to have an opportunity to pursue PhD.
+Yixin now is an M.Sc student majoring in management science and engineering, who mainly focused on the field of intelligent optimization theories and their applications. Recently, his work includes the design and development of swarm bionic intelligent optimization algorithms. As a cross-disciplinary student, he is passionate about learning, practicing and exploring some novel computer science techniques and tools, and trying to apply or improve them. 
 
 Research is a great method to sharpen your will, think independently, think critically. Don't be afraid of anything, try it!
 
@@ -25,6 +25,7 @@ Yixin's research interests include **Evolutionary Computation (EC)**; **Swarm In
 <h2 style="color: rgb(231, 65, 65);"><b>News:</b></h2>
 <div style="line-height: 1.5em; font-size: 0.95em">
   <p>
+  <b>[07/2022]</b> Work on "Multi-objective Bacterial Colony Optimization Based on Multi-subsystem for Environmental Economic Dispatching" was granted as <i><b>"The Best Paper"</b></i> in ICSI 2022.<br>
   <b>[05/2022]</b> Work on "Multi-objective Bacterial Colony Optimization Based on Multi-subsystem for Environmental Economic Dispatching" was accepted by <i><b>ICSI 2022</b></i>.<br>
   <b>[10/2021]</b> Work on "Multicriteria Recommendation Based on Bacterial Foraging Optimization" was accepted by <i><b>International Journal of Intelligent Systems</b></i>.<br>
   <b>[05/2021]</b> Work on "A Multi-objective Structure Variant Bacterial Heuristic Feature Selection Method in High-dimensional Data Classification" was accepted by <i><b>DMBD 2021</b></i>.<br>

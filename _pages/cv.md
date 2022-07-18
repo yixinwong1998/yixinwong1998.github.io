@@ -64,21 +64,23 @@ redirect_from:
 
 [3] Hong Wang *(Advisor)*, ***<u>Yixin Wang</u>***, Sili Wen, Ben Niu\*. "Multi-objective Stochastic Service Network Optimization for Resource Allocation in Medical Alliance." (SCI, under review)
 
-[4] Hong Wang *(Advisor)*, Yikun Ou, ***<u>Yixin Wang</u>***, Lijing Tan, Ben Niu. "Imbalanced Customer Classification based on Semi-supervised Bacterial Heuristic Feature Selection." (SCI, under review)
+[4] Hong Wang *(Advisor)*, Yikun Ou, ***<u>Yixin Wang</u>***, Tongtong Xing, Lijing Tan\*. "Semi-Supervised Bacterial Heuristic Feature Selection Algorithm for High-Dimensional Classification with Missing Labels." (SCI, under review)
 
 ### @Conference Papers:
 
-[1] Hong Wang *(Advisor)*,  Yikun Ou, and ***<u>Yixin Wang</u>\****. "A Multi-objective Structure Variant Bacterial Heuristic Feature Selection Method in High-dimensional Data Classification." In *International Conference on Data Mining and Big Data*, pp. 342-357. Springer, Singapore, 2021.
+[1] Hong Wang *(Advisor)*, ***<u>Yixin Wang</u>***, Mengjie Wan, Shan Wei\*. "Multi-objective Bacterial Colony Optimization Based on Multi-subsystem for Environmental Economic Dispatching." In *International Conference on Swarm Intelligence, 2022*, vol 13344. Springer, Cham, 2022.
 
-[2] Hong Wang *(Advisor)*, ***<u>Yixin Wang</u>***, Yikun Ou\*, and Ben Niu\*. "Bacterial Foraging Optimization with Leader Selection Strategy for Bi-objective Optimization." In *International Conference on Swarm Intelligence*, pp. 523-533. Springer, Cham, 2021.
+[2] Hong Wang *(Advisor)*,  Yikun Ou, and ***<u>Yixin Wang</u>\****. "A Multi-objective Structure Variant Bacterial Heuristic Feature Selection Method in High-dimensional Data Classification." In *International Conference on Data Mining and Big Data*, pp. 342-357. Springer, Singapore, 2021.
 
-[3] Hong Wang *(Advisor)*, ***<u>Yixin Wang</u>***, Ting Guo, Yibin Wang and Yikun Ou\*. "An Empirical Study of Social E-commerce Platform on Users' Intention: Take WeChat E-commerce Group as an Example." In *2021 12th International Conference on E-business, Management, and Economics*, pp. 54-61. 2020.
+[3] Hong Wang *(Advisor)*, ***<u>Yixin Wang</u>***, Yikun Ou\*, and Ben Niu\*. "Bacterial Foraging Optimization with Leader Selection Strategy for Bi-objective Optimization." In *International Conference on Swarm Intelligence*, pp. 523-533. Springer, Cham, 2021.
 
-[4] Wang, Hong *(Advisor)*, Zhuo Zhou, ***<u>Yixin Wang</u>***, and Xiaohui Yan\*. "Feature Selection for Image Classification Based on Bacterial Colony Optimization." In *International Conference on Swarm Intelligence*, pp. 430-439. Springer, Cham, 2021.
+[4] Hong Wang *(Advisor)*, ***<u>Yixin Wang</u>***, Ting Guo, Yibin Wang and Yikun Ou\*. "An Empirical Study of Social E-commerce Platform on Users' Intention: Take WeChat E-commerce Group as an Example." In *2021 12th International Conference on E-business, Management, and Economics*, pp. 54-61. 2020.
+
+[5] Wang, Hong *(Advisor)*, Zhuo Zhou, ***<u>Yixin Wang</u>***, and Xiaohui Yan\*. "Feature Selection for Image Classification Based on Bacterial Colony Optimization." In *International Conference on Swarm Intelligence*, pp. 430-439. Springer, Cham, 2021.
 
 ### @Others:
 
-[1] Hong Wang *(Advisor)*, ***<u>Yixin Wang</u>***, Niu Ben, Menglong Liu\*. "Discussion on Teaching Methods Combining Theory And Practice—taking Cybersecurity and E-commerce Courses As An Example." *The Management World We Explore, Collection of Teaching Research in School of Management, Shenzhen University, 2021.
+[1] Hong Wang *(Advisor)*, ***<u>Yixin Wang</u>***, Niu Ben, Menglong Liu\*. "Break through the passive mode and develop self-sufficient and independent learning ability." In *Our vocation is to seek knowledge*, Collection of Teaching Research in School of Management, Shenzhen University, 2021.
 
 ----
 ## Selected Honors

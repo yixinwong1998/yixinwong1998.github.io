@@ -59,9 +59,9 @@ author_profile: true
 <table style="width:100%;border:None;border-spacing:0px;border-collapse:separate;margin-right:0;margin-left:0;font-size:0.95em;">
   <tr>
     <td style="padding:10px;width:70%;vertical-align:middle;border-right:none;border-bottom:none;">
-      <b>Imbalanced Customer Classification based on Semi-supervised Bacterial Heuristic Feature Selection</b>
+      <b>Semi-Supervised Bacterial Heuristic Feature Selection Algorithm for High-Dimensional Classification with Missing Labels</b>
       <br>
-      Hong Wang, Yikun Ou, <u><b><i>Yixin Wang</i></b></u>, Lijing Tan, Ben Niu*. <i><b>(SCI) (under review)</b></i>.
+      Hong Wang, Yikun Ou, <u><b><i>Yixin Wang</i></b></u>, Tongtong Xing, Lijing Tan*. <i><b>(SCI) (under review)</b></i>.
       <br>
     </td>
     <td style="padding:10px;width:30%;vertical-align:middle;border-right:none;border-bottom:none;">
@@ -71,6 +71,27 @@ author_profile: true
 
 ------------------
 ## *<font color=green>@Conference Papers</font>*
+<table style="width:100%;border:None;border-spacing:0px;border-collapse:separate;margin-right:0;margin-left:0;font-size:0.95em;">
+  <tr>
+    <td style="padding:10px;width:70%;vertical-align:middle;border-right:none;border-bottom:none;">
+      <b>Multi-objective Bacterial Colony Optimization Based on Multi-subsystem for Environmental Economic Dispatching</b>
+      <br>
+      Hong Wang, <u><b><i>Yixin Wang*</i></b></u>, Mengjie Wan, Sili Wen, Shan Wei*.
+      <br>
+      <i>In International Conference on Swarm Intelligence, 2022 (<b>ICSI 2022</b>)</i>. 
+      <br>
+      [<a href="\../files/Multi-objective Bacterial Colony Optimization Based on Multi-subsystem for Environmental Economic Dispatching.pdf">PDF</a>]
+      [<a href="https://link.springer.com/chapter/10.1007/978-3-031-09677-8_44">Link</a>]
+      [<a href="http://iasei.org/icsi2022/">ICSI 2022</a>]
+    </td>
+    <td style="padding:10px;width:30%;vertical-align:middle;border-right:none;border-bottom:none;">
+      <a href="/images/MOBCOMSS.jpg">
+      <img src='/images/MOBCOMSS.jpg' width="300">
+      </a>
+    </td>
+  </tr>
+</table>
+
 <table style="width:100%;border:None;border-spacing:0px;border-collapse:separate;margin-right:0;margin-left:0;font-size:0.95em;">
   <tr>
     <td style="padding:10px;width:70%;vertical-align:middle;border-right:none;border-bottom:none;">
@@ -163,19 +184,19 @@ author_profile: true
 <table style="width:100%;border:None;border-spacing:0px;border-collapse:separate;margin-right:0;margin-left:0;font-size:0.95em;">
   <tr>
     <td style="padding:5px;width:70%;vertical-align:middle;border-right:none;border-bottom:none;">
-      <b>Discussion on Teaching Methods Combining Theory And Practice—taking Cybersecurity and E-commerce Courses As An Example</b> 
+      <b>Break through the passive mode and develop self-sufficient and independent learning ability.</b> 
       <br>
       Hong Wang, <b><u><i>Yixin Wang</i></u></b>, Ben Niu
       and Menglong Liu*.
       <br>
-      <i>The Management World We Explore, Collection of Teaching Research in School of Management, Shenzhen University, 2021</i>. 
+      <i>Our vocation is to seek knowledge, Collection of Teaching Research in School of Management, Shenzhen University, 2021.</i>
       <br>
-      [PDF]
-      [Link]
+      [<a href="\../files/collectionsyx.pdf">PDF</a>]
+      [<a href="https://ma.szu.edu.cn/info/1079/7037.htm">Link</a>]
     </td>
     <td style="padding:10px;width:30%;vertical-align:middle;border-right:none;border-bottom:none;">
-      <a href="/images/jglw.jpg">
-      <img src='/images/jglw.jpg' width="300">
+      <a href="/images/collections.jpg">
+      <img src='/images/collections.jpg' width="300">
       </a>
     </td>
   </tr>
