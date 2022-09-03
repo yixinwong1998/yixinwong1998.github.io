@@ -14,9 +14,9 @@ redirect_from:
 <b style="font-size: 1.8em;">
     PDF:
     &nbsp;
-    [<a href="/files/CV/yixinwangCV - eng.pdf">English</a>]
+    [<a href="/files/CV/yixinwangCVEN.pdf">English</a>]
     &nbsp;
-    [<a href="/files/CV/yixinwangCV - cn.pdf">中文</a>]
+    [<a href="/files/CV/yixinwangCVCN.pdf">中文</a>]
 </b>
 
 ----
@@ -30,6 +30,17 @@ redirect_from:
 * B.S. in Industrial Engineering, [School of Mechanical Engineering](https://jxx.dgut.edu.cn/), [Dongguan University of Technology](https://www.dgut.edu.cn/)
   * GPA: **3.90/5.0**  Rank: **1/123**
   * Supervisor: [Prof. Xiaohui Yan](https://jxx.dgut.edu.cn/info/1017/6460.htm)
+
+----
+## Skills
+----
+* 🐍 **Python** Object-Oriented Programming; 
+* 💻 **MATLAB** Scientific Computing and Simulation; 
+* 🔐 **Sklearn & Pytorch** Machine Learning & Deep Learning programming framework;
+* 💾 **Linux/Shell** programming; 
+* ✍ **SPSS** statistical analysis; **Latex** writing; **AutoCAD** computer aided drawing; ……
+* 💖 *(Good at and willing to explore and learn new computer-aided technologies, technology enthusiasts)*
+### QUALIFICATIONS & CERTIFICATES: Trainee Industrial Engineer, Anonymous Reviewer of ICSI
 
 ---
 ## Work Experiences
@@ -58,19 +69,21 @@ redirect_from:
 ---
 ### @Journal Papers:
 
-[1] Shuang Geng, Xiaofu He, ***<u>Yixin Wang</u>***, Hong Wang, Ben Niu, Kris M. Law. "Multicriteria Recommendation Based on Bacterial Foraging Optimization." *International Journal of Intelligent Systems* 37, no. 2 (2022): 1618-1645. (***JCR Q1***)
+[1] Shuang Geng *(Advisor)*, Xiaofu He, ***<u>Yixin Wang</u>***, Hong Wang, Ben Niu, Kris M. Law. "Multicriteria Recommendation Based on Bacterial Foraging Optimization." *International Journal of Intelligent Systems* 37, no. 2 (2022): 1618-1645. (***JCR Q1***)
 
 [2] Hong Wang *(Advisor)*, ***<u>Yixin Wang</u>***, Tianwei Zhou, Ben Niu\*. "A Population based Bacterial Colony Optimization with Dynamic Multi-Leader Co-evolution for Multi-Objective Optimization Problems." (SCI, under review)
 
 [3] Hong Wang *(Advisor)*, ***<u>Yixin Wang</u>***, Sili Wen, Ben Niu\*. "Multi-objective Stochastic Service Network Optimization for Resource Allocation in Medical Alliance." (SCI, under review)
 
-[4] Hong Wang *(Advisor)*, Yikun Ou, ***<u>Yixin Wang</u>***, Tongtong Xing, Lijing Tan\*. "Semi-Supervised Bacterial Heuristic Feature Selection Algorithm for High-Dimensional Classification with Missing Labels." (SCI, under review)
+[4] Ben Niu *(Advisor)*, Bowen Xue, ***<u>Yixin Wang*(Corresponding Author)</u>***. "Spectral Analysis and Optimization of Thermal Emitter in Thermophotovoltaic Technology via NSGA-II." (SCI) (under review).
+
+[5] Hong Wang *(Advisor)*, Yikun Ou, ***<u>Yixin Wang</u>***, Tongtong Xing, Lijing Tan\*. "Semi-Supervised Bacterial Heuristic Feature Selection Algorithm for High-Dimensional Classification with Missing Labels." (SCI, under review)
 
 ### @Conference Papers:
 
-[1] Hong Wang *(Advisor)*, ***<u>Yixin Wang</u>***, Mengjie Wan, Shan Wei\*. "Multi-objective Bacterial Colony Optimization Based on Multi-subsystem for Environmental Economic Dispatching." In *International Conference on Swarm Intelligence, 2022*, vol 13344. Springer, Cham, 2022.
+[1] Hong Wang *(Advisor)*, ***<u>Yixin Wang</u>***, Mengjie Wan, Shan Wei\*. "Multi-objective Bacterial Colony Optimization Based on Multi-subsystem for Environmental Economic Dispatching." In *International Conference on Swarm Intelligence, 2022*, vol 13344. Springer, Cham, 2022. **(Best Paper)**
 
-[2] Hong Wang *(Advisor)*,  Yikun Ou, and ***<u>Yixin Wang</u>\****. "A Multi-objective Structure Variant Bacterial Heuristic Feature Selection Method in High-dimensional Data Classification." In *International Conference on Data Mining and Big Data*, pp. 342-357. Springer, Singapore, 2021.
+[2] Hong Wang *(Advisor)*,  Yikun Ou, and ***<u>Yixin Wang*(Corresponding Author)</u>***. "A Multi-objective Structure Variant Bacterial Heuristic Feature Selection Method in High-dimensional Data Classification." In *International Conference on Data Mining and Big Data*, pp. 342-357. Springer, Singapore, 2021.
 
 [3] Hong Wang *(Advisor)*, ***<u>Yixin Wang</u>***, Yikun Ou\*, and Ben Niu\*. "Bacterial Foraging Optimization with Leader Selection Strategy for Bi-objective Optimization." In *International Conference on Swarm Intelligence*, pp. 523-533. Springer, Cham, 2021.
 
@@ -98,13 +111,6 @@ redirect_from:
 ### 🏅Excellent Undergraduate Scholarship, First Prize by DGUT (2017)
 
 ### 🏅Advanced Outstanding Student，by DGUT (2017)
-
-----
-## Skills
-----
-* 💻 Programming languages, mainly using python and matlab.
-* ✍ Willing to learn and use various professional computer tools.
-* 💖 Passionate and hard-working person.
 
 ----
 ## Service and Leadership
