@@ -31,9 +31,22 @@ author_profile: true
 <table style="width:100%;border:None;border-spacing:0px;border-collapse:separate;margin-right:0;margin-left:0;font-size:0.95em;">
   <tr>
     <td style="padding:10px;width:70%;vertical-align:middle;border-right:none;border-bottom:none;">
+      <b>A Semi-Supervised Bacterial Heuristic Feature Selection Algorithm for High-Dimensional Classification with Missing Labels</b>
+      <br>
+      Hong Wang (Advisor), Yikun Ou, <u><b><i>Yixin Wang</i></b></u>, Tongtong Xing, Lijing Tan*. <i><b>(International Journal of Intelligent Systems, JCR Q1) (coming soon)</b></i>.
+      <br>
+    </td>
+    <td style="padding:10px;width:30%;vertical-align:middle;border-right:none;border-bottom:none;">
+    </td>
+  </tr>
+</table>
+
+<table style="width:100%;border:None;border-spacing:0px;border-collapse:separate;margin-right:0;margin-left:0;font-size:0.95em;">
+  <tr>
+    <td style="padding:10px;width:70%;vertical-align:middle;border-right:none;border-bottom:none;">
       <b>A Population based Bacterial Colony Optimization with Dynamic Multi-Leader Co-evolution for Multi-Objective Optimization Problems</b>
       <br>
-      Hong Wang (Advisor), <u><b><i>Yixin Wang</i></b></u>, Tianwei Zhou, Ben Niu*. <i><b>(SCI) (under review)</b></i>.
+      Hong Wang (Advisor), <u><b><i>Yixin Wang</i></b></u>, Menglong Liu, Ben Niu*, Tianwei Zhou. <i><b>(SCI) (under review)</b></i>.
       <br>
       [<a href="\../files/MBCODML.pdf">PPT</a>]
     </td>
@@ -61,7 +74,7 @@ author_profile: true
     <td style="padding:10px;width:70%;vertical-align:middle;border-right:none;border-bottom:none;">
       <b>Spectral Analysis and Optimization of Thermal Emitter in Thermophotovoltaic Technology via NSGA-II</b>
       <br>
-      Ben Niu (Advisor), Bowen Xue, <u><b><i>Yixin Wang*(Corresponding Author)</i></b></u>. <i><b>(SCI) (under review)</b></i>.
+      Ben Niu (Advisor), Bowen Xue, <u><b><i>Yixin Wang*(Corresponding)</i></b></u>. <i><b>(SCI) (under review)</b></i>.
       <br>
     </td>
     <td style="padding:10px;width:30%;vertical-align:middle;border-right:none;border-bottom:none;">
@@ -69,18 +82,6 @@ author_profile: true
   </tr>
 </table>
 
-<table style="width:100%;border:None;border-spacing:0px;border-collapse:separate;margin-right:0;margin-left:0;font-size:0.95em;">
-  <tr>
-    <td style="padding:10px;width:70%;vertical-align:middle;border-right:none;border-bottom:none;">
-      <b>A Semi-Supervised Bacterial Heuristic Feature Selection Algorithm for High-Dimensional Classification with Missing Labels</b>
-      <br>
-      Hong Wang (Advisor), Yikun Ou, <u><b><i>Yixin Wang</i></b></u>, Tongtong Xing, Lijing Tan*. <i><b>(SCI) (under review)</b></i>.
-      <br>
-    </td>
-    <td style="padding:10px;width:30%;vertical-align:middle;border-right:none;border-bottom:none;">
-    </td>
-  </tr>
-</table>
 
 ------------------
 ## *<font color=green>@Conference Papers</font>*
@@ -110,7 +111,7 @@ author_profile: true
     <td style="padding:10px;width:70%;vertical-align:middle;border-right:none;border-bottom:none;">
       <b>A Multi-objective Structure Variant Bacterial Heuristic Feature Selection Method in High-dimensional Data Classification</b>
       <br>
-      Hong Wang (Advisor), Yikun Ou, and <u><b><i>Yixin Wang*(Corresponding Author)</i></b></u>.
+      Hong Wang (Advisor), Yikun Ou, and <u><b><i>Yixin Wang*(Corresponding)</i></b></u>.
       <br>
       <i>In International Conference on Data Mining and Big Data, 2021. (<b>DMBD 2021</b>)</i>. 
       <br>

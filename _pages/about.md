@@ -11,11 +11,14 @@ redirect_from:
 ![BSc](https://img.shields.io/badge/B.Sc.-Dongguan University of Technology(2016--2020)-yellowgreen?style=flat-square&color=181717&labelColor=red)
 ![MSc](https://img.shields.io/badge/M.Sc.-Shenzhen University(2020--present)-brightgreen?style=flat-square&color=181717&labelColor=blueviolet)
 # Glad to meet you~
-Yixin now is an M.Sc student majoring in management science and engineering, who mainly focused on the field of intelligent optimization theories and their applications. Recently, his work includes the design and development of swarm bionic intelligent optimization algorithms. As a cross-disciplinary student, he is passionate about learning, practicing and exploring some novel computer science techniques and tools, and trying to apply or improve them. 
 
-Research is a great method to sharpen your will, think independently, think critically. Don't be afraid of anything, try it!
+Yixin now is a M.Sc student at [College of Management](http://cm.szu.edu.cn/) at [Shenzhen University](https://en.szu.edu.cn/) (*Management Science and Engineering MSE, 2020-2023*), supervised by [Prof. Hong Wang](https://ma.szu.edu.cn/szll1/axx/glkxx/wh.htm). Before that, he received his B.Sc degree (*Industrial Engineering IE, 2016-2020*) from [School of Mechanical Engineering](https://jxx.dgut.edu.cn/), [Dongguan University of Technology](https://www.dgut.edu.cn/).
 
-Yixin's research interests include **Evolutionary Computation (EC)**; **Swarm Intelligence (SI); Bacterial-based Optimization**; **Feature Selection (FS)**; **Medical Alliance**; **Resource Allocation**; **Machine Learning (ML)**; **Deep Learning (DL)**; **Reinforcement Learning (RL)**, etc.
+During the graduate stage, Yixin mainly focused on the field of AI techniques and their applications. As a cross-disciplinary student, he is passionate about learning, practicing and exploring some novel computer science techniques and tools, trying to apply or improve them. 
+
+ *<u>Research is a great method to sharpen your will, think independently, think critically. Don't be afraid of anything, try it!</u>*
+
+Yixin's research interests include **Intelligent Optimization**; **Machine Learning (ML)**; **Deep Learning (DL)**; **Reinforcement Learning (RL)**; **AI Applications**, etc.
 
 ### Contact me via:
 <i class="fa fa-fw fa-envelope"></i> <font style="font-size: 0.9em;">Mail: <a href="mailto:yixinwong1998@gmail.com">yixinwong1998@gmail.com</a> or <a href="mailto:wangyixin2020@email.szu.edu.cn">wangyixin2020@email.szu.edu.cn</a></font>
@@ -55,5 +58,5 @@ Yixin's research interests include **Evolutionary Computation (EC)**; **Swarm In
   <img src="images/medical model.png" alt="Bacterial Motility" width="600">
   </a>
 
-## 😂😂😂😂**Yixin!**🤣🤣🤣🤣
-Yixin now is a M.Sc student at [College of Management](http://cm.szu.edu.cn/) at [Shenzhen University](https://en.szu.edu.cn/) (Management Science and Engineering, 2020-2023), supervised by [Prof. Hong Wang](https://ma.szu.edu.cn/szll1/axx/glkxx/wh.htm). Before that, Yixin completed his undergraduate studies (Industrial Engineering) and received his B.Sc degree in Management from [School of Mechanical Engineering](https://jxx.dgut.edu.cn/), [Dongguan University of Technology](https://www.dgut.edu.cn/) in 2020 (2016-2020).
+## 😂😂😂😂**THANK YOU!**🤣🤣🤣🤣
+

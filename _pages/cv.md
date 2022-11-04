@@ -71,19 +71,19 @@ redirect_from:
 
 [1] Shuang Geng *(Advisor)*, Xiaofu He, ***<u>Yixin Wang</u>***, Hong Wang, Ben Niu, Kris M. Law. "Multicriteria Recommendation Based on Bacterial Foraging Optimization." *International Journal of Intelligent Systems* 37, no. 2 (2022): 1618-1645. (***JCR Q1***)
 
-[2] Hong Wang *(Advisor)*, ***<u>Yixin Wang</u>***, Tianwei Zhou, Ben Niu\*. "A Population based Bacterial Colony Optimization with Dynamic Multi-Leader Co-evolution for Multi-Objective Optimization Problems." (SCI, under review)
+[2] Hong Wang *(Advisor)*, Yikun Ou, ***<u>Yixin Wang</u>***, Tongtong Xing, Lijing Tan\*. "Semi-Supervised Bacterial Heuristic Feature Selection Algorithm for High-Dimensional Classification with Missing Labels." (***International Journal of Intelligent Systems, JCR Q1, coming soon***)
 
-[3] Hong Wang *(Advisor)*, ***<u>Yixin Wang</u>***, Sili Wen, Ben Niu\*. "Multi-objective Stochastic Service Network Optimization for Resource Allocation in Medical Alliance." (SCI, under review)
+[3] Hong Wang *(Advisor)*, ***<u>Yixin Wang</u>***, Menglong Liu, Ben Niu\*, Tianwei Zhou. "A Population based Bacterial Colony Optimization with Dynamic Multi-Leader Co-evolution for Multi-Objective Optimization Problems." (SCI, under review)
 
-[4] Ben Niu *(Advisor)*, Bowen Xue, ***<u>Yixin Wang*(Corresponding Author)</u>***. "Spectral Analysis and Optimization of Thermal Emitter in Thermophotovoltaic Technology via NSGA-II." (SCI) (under review).
+[4] Hong Wang *(Advisor)*, ***<u>Yixin Wang</u>***, Sili Wen, Ben Niu\*. "Multi-objective Stochastic Service Network Optimization for Resource Allocation in Medical Alliance." (SCI, under review)
 
-[5] Hong Wang *(Advisor)*, Yikun Ou, ***<u>Yixin Wang</u>***, Tongtong Xing, Lijing Tan\*. "Semi-Supervised Bacterial Heuristic Feature Selection Algorithm for High-Dimensional Classification with Missing Labels." (SCI, under review)
+[5] Ben Niu *(Advisor)*, Bowen Xue, ***<u>Yixin Wang*(Corresponding)</u>***. "Spectral Analysis and Optimization of Thermal Emitter in Thermophotovoltaic Technology via NSGA-II." (SCI, under review).
 
 ### @Conference Papers:
 
 [1] Hong Wang *(Advisor)*, ***<u>Yixin Wang</u>***, Mengjie Wan, Shan Wei\*. "Multi-objective Bacterial Colony Optimization Based on Multi-subsystem for Environmental Economic Dispatching." In *International Conference on Swarm Intelligence, 2022*, vol 13344. Springer, Cham, 2022. **(Best Paper)**
 
-[2] Hong Wang *(Advisor)*,  Yikun Ou, and ***<u>Yixin Wang*(Corresponding Author)</u>***. "A Multi-objective Structure Variant Bacterial Heuristic Feature Selection Method in High-dimensional Data Classification." In *International Conference on Data Mining and Big Data*, pp. 342-357. Springer, Singapore, 2021.
+[2] Hong Wang *(Advisor)*,  Yikun Ou, and ***<u>Yixin Wang*(Corresponding)</u>***. "A Multi-objective Structure Variant Bacterial Heuristic Feature Selection Method in High-dimensional Data Classification." In *International Conference on Data Mining and Big Data*, pp. 342-357. Springer, Singapore, 2021.
 
 [3] Hong Wang *(Advisor)*, ***<u>Yixin Wang</u>***, Yikun Ou\*, and Ben Niu\*. "Bacterial Foraging Optimization with Leader Selection Strategy for Bi-objective Optimization." In *International Conference on Swarm Intelligence*, pp. 523-533. Springer, Cham, 2021.
 
