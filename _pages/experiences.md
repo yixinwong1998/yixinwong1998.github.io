@@ -6,6 +6,19 @@ author_profile: true
 ---
 
 ------------------
+## 📚 Master Thesis
+------------------
+* ✍️ Sep. 2020 - Dec. 2022
+* **Advisor:** Prof. Hong Wang
+* **Topic:** Study on the optimal resource allocation in the context of hierarchical medical system.
+* **Works:** \
+    **@** To alleviate overpopulation in comprehensive hospital and improve the efficiency of medical services, China has prompted the medical alliance system. However, medical resource allocation and bidirectional referral strategies remain key issues to be solved.
+    In this study, a medical resource planning model based on a stochastic bidirectional referral service network is presented, in which the burden of medical resources and the quality of health care are considered simultaneously. In addition, several cases including first-visit scale redistribution, referral rate and service rate sensitivity analysis are conducted. Finally, we provide an effective heuristic method to obtain the optimal resource allocation scheme and a series of constructive decision suported insights are discussed.
+    <center class="half">
+      <img src="\../images/HMS.png" width="370"/>
+    </center>
+
+------------------
 ## 📚 Application for National Natural Science Foundation of China，NSFC
 ------------------
 * ✍️ Jan. 2022 - Mar. 2022

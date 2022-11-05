@@ -37,6 +37,9 @@ author_profile: true
       <br>
     </td>
     <td style="padding:10px;width:30%;vertical-align:middle;border-right:none;border-bottom:none;">
+      <a href="/images/DLBCL.png">
+      <img src='/images/DLBCL.png' width="300" highth="80">
+      </a>
     </td>
   </tr>
 </table>
@@ -51,6 +54,9 @@ author_profile: true
       [<a href="\../files/MBCODML.pdf">PPT</a>]
     </td>
     <td style="padding:10px;width:30%;vertical-align:middle;border-right:none;border-bottom:none;">
+      <a href="/images/MOO.png">
+      <img src='/images/MOO.png' width="280">
+      </a>
     </td>
   </tr>
 </table>
@@ -65,6 +71,9 @@ author_profile: true
       [<a href="\../files/MOSSNORAMA.pdf">PPT</a>]
     </td>
     <td style="padding:10px;width:30%;vertical-align:middle;border-right:none;border-bottom:none;">
+      <a href="/images/medOpti.png">
+      <img src='/images/medOpti.png' width="300" highth="80">
+      </a>
     </td>
   </tr>
 </table>
@@ -78,6 +87,9 @@ author_profile: true
       <br>
     </td>
     <td style="padding:10px;width:30%;vertical-align:middle;border-right:none;border-bottom:none;">
+      <a href="/images/specOpti.png">
+      <img src='/images/specOpti.png' width="300">
+      </a>
     </td>
   </tr>
 </table>
@@ -121,7 +133,7 @@ author_profile: true
     </td>
     <td style="padding:10px;width:30%;vertical-align:middle;border-right:none;border-bottom:none;">
       <a href="/images/dmbd.png">
-      <img src='/images/dmbd.png' width="300">
+      <img src='/images/dmbd.png' width="300" height="180">
       </a>
     </td>
   </tr>
@@ -210,7 +222,7 @@ author_profile: true
     </td>
     <td style="padding:10px;width:30%;vertical-align:middle;border-right:none;border-bottom:none;">
       <a href="/images/collections.jpg">
-      <img src='/images/collections.jpg' width="300">
+      <img src='/images/collections.jpg' width="300" height="80">
       </a>
     </td>
   </tr>

@@ -12,18 +12,18 @@ redirect_from:
 ![MSc](https://img.shields.io/badge/M.Sc.-Shenzhen University(2020--present)-brightgreen?style=flat-square&color=181717&labelColor=blueviolet)
 # Glad to meet you~
 
-Yixin now is a M.Sc student at [College of Management](http://cm.szu.edu.cn/) at [Shenzhen University](https://en.szu.edu.cn/) (*Management Science and Engineering MSE, 2020-2023*), supervised by [Prof. Hong Wang](https://ma.szu.edu.cn/szll1/axx/glkxx/wh.htm). Before that, he received his B.Sc degree (*Industrial Engineering IE, 2016-2020*) from [School of Mechanical Engineering](https://jxx.dgut.edu.cn/), [Dongguan University of Technology](https://www.dgut.edu.cn/).
+Yixin now is a M.Sc student at [College of Management](http://cm.szu.edu.cn/) at [Shenzhen University, SZU](https://en.szu.edu.cn/) (*Management Science and Engineering MSE, 2020-2023*), supervised by [Prof. Hong Wang](https://ma.szu.edu.cn/szll1/axx/glkxx/wh.htm). Before that, he received his B.Sc degree from [School of Mechanical Engineering](https://jxx.dgut.edu.cn/), [Dongguan University of Technology, DGUT](https://www.dgut.edu.cn/) (*Industrial Engineering IE, 2016-2020*).
 
 During the graduate stage, Yixin mainly focused on the field of AI techniques and their applications. As a cross-disciplinary student, he is passionate about learning, practicing and exploring some novel computer science techniques and tools, trying to apply or improve them. 
 
- *<u>Research is a great method to sharpen your will, think independently, think critically. Don't be afraid of anything, try it!</u>*
+ *<u>Suffering is a great teacher to sharpen your will, think independently, think critically. Don't be afraid of anything, try it!</u>*
 
-Yixin's research interests include **Intelligent Optimization**; **Machine Learning (ML)**; **Deep Learning (DL)**; **Reinforcement Learning (RL)**; **AI Applications**, etc.
+Yixin's recent research interests include **Intelligent Optimization**; **Machine Learning (ML)**; **Deep Learning (DL)**; **Reinforcement Learning (RL)**; **AI Applications**, etc.
 
 ### Contact me via:
 <i class="fa fa-fw fa-envelope"></i> <font style="font-size: 0.9em;">Mail: <a href="mailto:yixinwong1998@gmail.com">yixinwong1998@gmail.com</a> or <a href="mailto:wangyixin2020@email.szu.edu.cn">wangyixin2020@email.szu.edu.cn</a></font>
 <br>
-<i class="fa fa-fw fa-phone"></i> <font style="font-size: 0.9em;">Mobile: +86 152-1898-3737</font>
+<i class="fa fa-fw fa-phone"></i> <font style="font-size: 0.9em;">Mobile: +86 15218983737</font>
 
 <h2 style="color: rgb(231, 65, 65);"><b>News:</b></h2>
 <div style="line-height: 1.5em; font-size: 0.95em">
@@ -40,23 +40,4 @@ Yixin's research interests include **Intelligent Optimization**; **Machine Learn
   </p>
 </div>
 
------
-# Recent Research Topics
-## Bacterial Heuristic Optimization
-   Bacterial heuristic optimization is a type of swarm intelligence (SI) simulating the foraging behavior of bacteria. The survival of bacteria, the oldest class of organisms, has shown an intelligent optimization effect that emerged in groups. Compared with the behavior of a single bacterium, the bacteria colony can produce swarming effect that helps the whole community gather effectively in areas with high nutrition. Recently, due to the excellent global search capability and simple bionic structure, bacterial heuristic optimization algorithms have been widely studied and successfully applied in many engineering fields. We are working on improving the  capability of bacterial heuristic optimization, improving the performance of machine learning algorithms by bacterial heuristic optimization, as well as many engineering applications.
-
-  <a href="images/Video_ Bacterial Motility.gif">
-  <img src="images/Video_ Bacterial Motility.gif" alt="Bacterial Motility" width="300">
-  </a><a href="images/bacterial720.jpg">
-  <img src="images/bacterial720.jpg" alt="Bacterial Motility" width="300">
-  </a>
-  
-## Medical Alliance Resource Allocation
-   To optimize the allocation of medical resources and improve the efficiency of medical services, China has prompted the medical alliance system. How to optimize the operation of the medical alliance system is a key issue to be solved. From our perspective, the medical alliance system is presented as a medical resource planning problem based on the stochastic service network. A multi-objective stochastic resource allocation model is investigated to minimize the system operation cost and maximize the patients’ utility. Meanwhile, relevant solution scheme is developed for this multi-objective nonlinear integer programming problem with multiple constraints.
-
-  <a href="images/medical model.png">
-  <img src="images/medical model.png" alt="Bacterial Motility" width="600">
-  </a>
-
 ## 😂😂😂😂**THANK YOU!**🤣🤣🤣🤣
-
