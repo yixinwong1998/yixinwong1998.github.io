@@ -12,7 +12,7 @@ redirect_from:
 ![MSc](https://img.shields.io/badge/M.Sc.-Shenzhen University(2020--present)-brightgreen?style=flat-square&color=181717&labelColor=blueviolet)
 # Glad to meet you~
 
-Yixin now is a M.Sc student at [College of Management](http://cm.szu.edu.cn/) at [Shenzhen University, SZU](https://en.szu.edu.cn/) (*Management Science and Engineering MSE, 2020-2023*), supervised by [Prof. Hong Wang](https://ma.szu.edu.cn/szll1/axx/glkxx/wh.htm). Before that, he received his B.Sc degree from [School of Mechanical Engineering](https://jxx.dgut.edu.cn/), [Dongguan University of Technology, DGUT](https://www.dgut.edu.cn/) (*Industrial Engineering IE, 2016-2020*).
+Yixin now is an M.Sc student at [College of Management](http://cm.szu.edu.cn/) at [Shenzhen University, SZU](https://en.szu.edu.cn/) (*Management Science and Engineering MSE, 2020-2023*), supervised by [Prof. Hong Wang](https://ma.szu.edu.cn/szll1/axx/glkxx/wh.htm) in [Intelligent Management & Cross Innovation Team](https://mp.weixin.qq.com/s/wvfn8Upxj9f22lMPOzTy2w) led by [Prof. Ben Niu](https://ma.szu.edu.cn/szll1/axx/glkxx/nb.htm). Before that, he received his B.Sc degree from [School of Mechanical Engineering](https://jxx.dgut.edu.cn/), [Dongguan University of Technology, DGUT](https://www.dgut.edu.cn/) (*Industrial Engineering IE, 2016-2020*).
 
 During the graduate stage, Yixin mainly focused on the field of AI techniques and their applications. As a cross-disciplinary student, he is passionate about learning, practicing and exploring some novel computer science techniques and tools, trying to apply or improve them. 
 
