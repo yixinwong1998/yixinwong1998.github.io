@@ -98,6 +98,8 @@ redirect_from:
 ----
 ## Selected Honors
 
+### 🏅Excellent Postgraduate Scholarship，Second Prize by SZU (2022)
+
 ### 🏅Excellent Postgraduate Scholarship，Second Prize by SZU (2021)
 
 ### 🏅DGUT Outstanding Graduate (2020)
