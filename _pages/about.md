@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "🤞🤞🤞Hiya! Welcome to Yixin Wang (王亿鑫)~"
+title: "Hiya! Welcome to Yixin Wang~ 🌞🌞🌞"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -28,7 +28,7 @@ Yixin's recent research interests include **Intelligent Optimization**; **Machin
 <h2 style="color: rgb(231, 65, 65);"><b>News:</b></h2>
 <div style="line-height: 1.5em; font-size: 0.95em">
   <p>
-  <b>[07/2022]</b> Work on "Multi-objective Bacterial Colony Optimization Based on Multi-subsystem for Environmental Economic Dispatching" was granted as <i><b>"The Best Paper"</b></i> in ICSI 2022.<br>
+  <b>[07/2022]</b> Work on "Multi-objective Bacterial Colony Optimization Based on Multi-subsystem for Environmental Economic Dispatching" was granted as <i><b>"The Best Paper"</b></i> in **ICSI 2022**.<br>
   <b>[05/2022]</b> Work on "Multi-objective Bacterial Colony Optimization Based on Multi-subsystem for Environmental Economic Dispatching" was accepted by <i><b>ICSI 2022</b></i>.<br>
   <b>[10/2021]</b> Work on "Multicriteria Recommendation Based on Bacterial Foraging Optimization" was accepted by <i><b>International Journal of Intelligent Systems</b></i>.<br>
   <b>[05/2021]</b> Work on "A Multi-objective Structure Variant Bacterial Heuristic Feature Selection Method in High-dimensional Data Classification" was accepted by <i><b>DMBD 2021</b></i>.<br>
@@ -36,7 +36,7 @@ Yixin's recent research interests include **Intelligent Optimization**; **Machin
   <b>[04/2021]</b> Work on "Feature Selection for Image Classification Based on Bacterial Colony Optimization" was accepted by <i><b>ICSI 2021</b></i>.<br>
   <b>[04/2021]</b> Work on "Bacterial Foraging Optimization with Leader Selection Strategy for Bi-objective Optimization" was accepted by <i><b>ICSI 2021</b></i>.<br>
   <b>[09/2020]</b> My Master's journey started from Shenzhen University.<br>
-  <b>[06/2020]</b> I received my B.Sc. degree in management from Dongguan University of Technology.<br>
+  <b>[06/2020]</b> I received my B.S. degree from Dongguan University of Technology.<br>
   </p>
 </div>
 
