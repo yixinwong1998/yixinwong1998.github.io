@@ -28,6 +28,7 @@ Yixin's recent research interests include **Intelligent Optimization**; **Machin
 <h2 style="color: rgb(231, 65, 65);"><b>News:</b></h2>
 <div style="line-height: 1.5em; font-size: 0.95em">
   <p>
+  <b>[11/2022]</b> A long paper was accepted by <b>high-level artificial intelligence journal <u><i>International Journal of Intelligent Systems</i></u>, (JCR Q1, IF 8.993)</b>. The online version and code will release soon!!!<br>
   <b>[07/2022]</b> Work on "Multi-objective Bacterial Colony Optimization Based on Multi-subsystem for Environmental Economic Dispatching" was granted as <i><b>"The Best Paper"</b></i> in **ICSI 2022**.<br>
   <b>[05/2022]</b> Work on "Multi-objective Bacterial Colony Optimization Based on Multi-subsystem for Environmental Economic Dispatching" was accepted by <i><b>ICSI 2022</b></i>.<br>
   <b>[10/2021]</b> Work on "Multicriteria Recommendation Based on Bacterial Foraging Optimization" was accepted by <i><b>International Journal of Intelligent Systems</b></i>.<br>

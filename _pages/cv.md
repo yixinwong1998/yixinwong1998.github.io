@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV / Résumé"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -14,9 +14,9 @@ redirect_from:
 <b style="font-size: 1.8em;">
     PDF:
     &nbsp;
-    [<a href="/files/CV/yixinwangCVEN.pdf">English</a>]
+    [<a href="/files/CV/yixinwangCVEN.pdf">Yixin WANG-CV.pdf</a>]
     &nbsp;
-    [<a href="/files/CV/yixinwangCVCN.pdf">中文</a>]
+    [<a href="/files/CV/yixinwangCVCN.pdf">王亿鑫个人简历.pdf</a>]
 </b>
 
 ----
@@ -71,7 +71,7 @@ redirect_from:
 
 [1] Shuang Geng *(Advisor)*, Xiaofu He, ***<u>Yixin Wang</u>***, Hong Wang, Ben Niu, Kris M. Law. "Multicriteria Recommendation Based on Bacterial Foraging Optimization." *International Journal of Intelligent Systems* 37, no. 2 (2022): 1618-1645. (***JCR Q1***)
 
-[2] Hong Wang *(Advisor)*, Yikun Ou, ***<u>Yixin Wang</u>***, Tongtong Xing, Lijing Tan\*. "Semi-Supervised Bacterial Heuristic Feature Selection Algorithm for High-Dimensional Classification with Missing Labels." (***International Journal of Intelligent Systems, JCR Q1, coming soon***)
+[2] Hong Wang *(Advisor)*, Yikun Ou, ***<u>Yixin Wang</u>***, Tongtong Xing, Lijing Tan\*. "Semi-Supervised Bacterial Heuristic Feature Selection Algorithm for High-Dimensional Classification with Missing Labels." (***International Journal of Intelligent Systems, JCR Q1, Accepted***)
 
 [3] Hong Wang *(Advisor)*, ***<u>Yixin Wang</u>***, Menglong Liu, Ben Niu\*, Tianwei Zhou. "A Population based Bacterial Colony Optimization with Dynamic Multi-Leader Co-evolution for Multi-Objective Optimization Problems." (SCI, under review)
 

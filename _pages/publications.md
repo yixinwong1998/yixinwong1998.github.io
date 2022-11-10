@@ -33,7 +33,7 @@ author_profile: true
     <td style="padding:10px;width:70%;vertical-align:middle;border-right:none;border-bottom:none;">
       <b>A Semi-Supervised Bacterial Heuristic Feature Selection Algorithm for High-Dimensional Classification with Missing Labels</b>
       <br>
-      Hong Wang (Advisor), Yikun Ou, <u><b><i>Yixin Wang</i></b></u>, Tongtong Xing, Lijing Tan*. <i><b>(International Journal of Intelligent Systems, JCR Q1) (coming soon)</b></i>.
+      Hong Wang (Advisor), Yikun Ou, <u><b><i>Yixin Wang</i></b></u>, Tongtong Xing, Lijing Tan*. <i><b>(International Journal of Intelligent Systems, JCR Q1) (Accepted)</b></i>.
       <br>
     </td>
     <td style="padding:10px;width:30%;vertical-align:middle;border-right:none;border-bottom:none;">
