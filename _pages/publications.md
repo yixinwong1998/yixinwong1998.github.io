@@ -11,11 +11,31 @@ author_profile: true
 <table style="width:100%;border:None;border-spacing:0px;border-collapse:separate;margin-right:0;margin-left:0;font-size:0.95em;">
   <tr>
     <td style="padding:10px;width:70%;vertical-align:middle;border-right:none;border-bottom:none;">
+      <b>Semisupervised Bacterial Heuristic Feature Selection Algorithm for High-Dimensional Classification with Missing Labels</b>
+      <br>
+      Hong Wang (Advisor), Yikun Ou, <u><b><i>Yixin Wang</i></b></u>, Tongtong Xing, Lijing Tan*.
+      <br>
+      <i><b>International Journal of Intelligent Systems</b></i>, 2023, (2023). (<b>JCR Q1, IF: 8.993</b>).
+      <br>
+      [<a href="\../files/Semisupervised Bacterial Heuristic Feature Selection Algorithm for High-Dimensional Classification with Missing Labels.pdf">PDF</a>]
+      [<a href="https://doi.org/10.1155/2023/4196920">Link</a>]
+    </td>
+    <td style="padding:10px;width:30%;vertical-align:middle;border-right:none;border-bottom:none;">
+      <a href="/images/DLBCL.png">
+      <img src='/images/DLBCL.png' width="300" highth="80">
+      </a>
+    </td>
+  </tr>
+</table>
+
+<table style="width:100%;border:None;border-spacing:0px;border-collapse:separate;margin-right:0;margin-left:0;font-size:0.95em;">
+  <tr>
+    <td style="padding:10px;width:70%;vertical-align:middle;border-right:none;border-bottom:none;">
       <b>Multicriteria Recommendation Based on Bacterial Foraging Optimization</b>
       <br>
       Shuang Geng (Advisor), Xiaofu He, <u><b><i>Yixin Wang</i></b></u>, Hong Wang*, Ben Niu, Kris M. Law.
       <br>
-      <i><b>International Journal of Intelligent Systems</b> 37, no. 2 (2022): 1618-1645. (<b>JCR Q1</b>)</i>. 
+      <i><b>International Journal of Intelligent Systems</b></i> 37, no. 2 (2022): 1618-1645. (<b>JCR Q1, IF: 8.993</b>). 
       <br>
       [<a href="\../files/Multicriteria Recommendation Based on Bacterial Foraging Optimization.pdf">PDF</a>]
       [<a href="https://doi.org/10.1002/int.22688">Link</a>]
@@ -31,25 +51,9 @@ author_profile: true
 <table style="width:100%;border:None;border-spacing:0px;border-collapse:separate;margin-right:0;margin-left:0;font-size:0.95em;">
   <tr>
     <td style="padding:10px;width:70%;vertical-align:middle;border-right:none;border-bottom:none;">
-      <b>A Semi-Supervised Bacterial Heuristic Feature Selection Algorithm for High-Dimensional Classification with Missing Labels</b>
-      <br>
-      Hong Wang (Advisor), Yikun Ou, <u><b><i>Yixin Wang</i></b></u>, Tongtong Xing, Lijing Tan*. <i><b>(International Journal of Intelligent Systems, JCR Q1) (Accepted)</b></i>.
-      <br>
-    </td>
-    <td style="padding:10px;width:30%;vertical-align:middle;border-right:none;border-bottom:none;">
-      <a href="/images/DLBCL.png">
-      <img src='/images/DLBCL.png' width="300" highth="80">
-      </a>
-    </td>
-  </tr>
-</table>
-
-<table style="width:100%;border:None;border-spacing:0px;border-collapse:separate;margin-right:0;margin-left:0;font-size:0.95em;">
-  <tr>
-    <td style="padding:10px;width:70%;vertical-align:middle;border-right:none;border-bottom:none;">
       <b>A Population based Bacterial Colony Optimization with Dynamic Multi-Leader Co-evolution for Multi-Objective Optimization Problems</b>
       <br>
-      Hong Wang (Advisor), <u><b><i>Yixin Wang</i></b></u>, Menglong Liu, Ben Niu*, Tianwei Zhou. <i><b>(SCI) (under review)</b></i>.
+      Hong Wang (Advisor), <u><b><i>Yixin Wang</i></b></u>, Menglong Liu, Ben Niu*, Tianwei Zhou. <i><b>(Under review)</b></i>.
       <br>
       [<a href="\../files/MBCODML.pdf">PPT</a>]
     </td>
@@ -64,9 +68,9 @@ author_profile: true
 <table style="width:100%;border:None;border-spacing:0px;border-collapse:separate;margin-right:0;margin-left:0;font-size:0.95em;">
   <tr>
     <td style="padding:10px;width:70%;vertical-align:middle;border-right:none;border-bottom:none;">
-      <b>Multi-objective Stochastic Service Network Optimization for Resource Allocation in Medical Alliance</b>
+      <b>Multiobjective Queueing Service Network Optimization for Resource Allocation in a Hierarchical Medical System</b>
       <br>
-      Hong Wang (Advisor), <u><b><i>Yixin Wang</i></b></u>, Sili Wen, Ben Niu*. <i><b>(SCI) (under review)</b></i>.
+      Hong Wang (Advisor), <u><b><i>Yixin Wang</i></b></u>, Sili Wen, Ben Niu*. <i><b>(Under review)</b></i>.
       <br>
       [<a href="\../files/MOSSNORAMA.pdf">PPT</a>]
     </td>
@@ -83,7 +87,7 @@ author_profile: true
     <td style="padding:10px;width:70%;vertical-align:middle;border-right:none;border-bottom:none;">
       <b>Spectral Analysis and Optimization of Thermal Emitter in Thermophotovoltaic Technology via NSGA-II</b>
       <br>
-      Ben Niu (Advisor), Bowen Xue, <u><b><i>Yixin Wang*(Corresponding)</i></b></u>. <i><b>(SCI) (under review)</b></i>.
+      Ben Niu (Advisor), Bowen Xue, <u><b><i>Yixin Wang*(Corresponding)</i></b></u>. <i><b>(Under review)</b></i>.
       <br>
     </td>
     <td style="padding:10px;width:30%;vertical-align:middle;border-right:none;border-bottom:none;">

@@ -14,7 +14,7 @@ redirect_from:
 <b style="font-size: 1.8em;">
     PDF:
     &nbsp;
-    [<a href="/files/CV/yixinwangCVEN.pdf">Yixin WANG-CV.pdf</a>]
+    [<a href="/files/CV/yixinwangCVEN23.pdf">Yixin WANG-CV.pdf</a>]
     &nbsp;
     [<a href="/files/CV/yixinwangCVCN.pdf">王亿鑫个人简历.pdf</a>]
 </b>
@@ -36,8 +36,8 @@ redirect_from:
 ----
 * 🐍 **Python** Object-Oriented Programming; 
 * 💻 **MATLAB** Scientific Computing and Simulation; 
-* 🔐 **Sklearn & Pytorch** Machine Learning & Deep Learning programming framework;
-* 💾 **Linux/Shell** programming; 
+* 🔐 **Pytorch** Deep Learning implementation framework and **common DS frameworks**;
+* 💾 **Linux/Shell** OS & Batch script; 
 * ✍ **SPSS** statistical analysis; **Latex** writing; **AutoCAD** computer aided drawing; ……
 * 💖 *(Good at and willing to explore and learn new computer-aided technologies, technology enthusiasts)*
 ### QUALIFICATIONS & CERTIFICATES: Trainee Industrial Engineer, Anonymous Reviewer of ICSI
@@ -45,11 +45,14 @@ redirect_from:
 ---
 ## Work Experiences
 ---
+* 🙋‍♂️ **Research Assistant** (2021 ~ 2022)
+  * Greater Bay Area International Institute for Innovation, Shenzhen University
+  * Duties: Assistance in research experiments; Assistance in funding projects application; etc.
 
 * 👨‍🏫 **Adjunct Lecturer** (Spring 2022)
   * College of Management，Shenzhen University
-  * *Subject*：E-Commerce Simulation Practice
-  * *Duties*: Teaching about E-Commerce fundamentals, E-commerce platforms and their development, Logistics, Marketing.
+  * *Subject*：E-Commerce Simulation Practice （in Chinese, further education to college level）
+  * *Duties*: Teaching about E-Commerce fundamentals, platforms and their development, Logistics, etc.
 
 * 👨‍💼 **Graduate Student Administrative Assistant** (Fall 2021)
   * College of Management，Shenzhen University
@@ -57,8 +60,8 @@ redirect_from:
   
 * 👨‍🏫 **Adjunct Lecturer** (Fall 2021)
   * College of Management，Shenzhen University
-  * *Subject*：Basic C Programming
-  * *Duties*: Teaching about programming basic and development process, sequential architecture programming, selecting structure programming, loop structure programming, modular programming.
+  * *Subject*：Basic C Programming （in Chinese, further education to college level）
+  * *Duties*: Teaching about programming basic and development process, modular programming, etc.
 
 * 👦 **Intern at Fast Retailing** (2016.12 ~ 2017.03)
   * FAST RETAILING CO., LTD
@@ -69,15 +72,15 @@ redirect_from:
 ---
 ### @Journal Papers:
 
-[1] Shuang Geng *(Advisor)*, Xiaofu He, ***<u>Yixin Wang</u>***, Hong Wang, Ben Niu, Kris M. Law. "Multicriteria Recommendation Based on Bacterial Foraging Optimization." *International Journal of Intelligent Systems* 37, no. 2 (2022): 1618-1645. (***JCR Q1***)
+[1] Hong Wang *(Advisor)*, Yikun Ou, ***<u>Yixin Wang</u>***, Tongtong Xing, Lijing Tan\*. "Semisupervised Bacterial Heuristic Feature Selection Algorithm for High-Dimensional Classification with Missing Labels." **International Journal of Intelligent Systems**, 2023, (2023). (***JCR Q1, IF: 8.993***)
 
-[2] Hong Wang *(Advisor)*, Yikun Ou, ***<u>Yixin Wang</u>***, Tongtong Xing, Lijing Tan\*. "Semi-Supervised Bacterial Heuristic Feature Selection Algorithm for High-Dimensional Classification with Missing Labels." (***International Journal of Intelligent Systems, JCR Q1, Accepted***)
+[2] Shuang Geng *(Advisor)*, Xiaofu He, ***<u>Yixin Wang</u>***, Hong Wang, Ben Niu, Kris M. Law. "Multicriteria Recommendation Based on Bacterial Foraging Optimization." **International Journal of Intelligent Systems** 37, no. 2 (2022): 1618-1645. (***JCR Q1, IF: 8.993***)
 
-[3] Hong Wang *(Advisor)*, ***<u>Yixin Wang</u>***, Menglong Liu, Ben Niu\*, Tianwei Zhou. "A Population based Bacterial Colony Optimization with Dynamic Multi-Leader Co-evolution for Multi-Objective Optimization Problems." (SCI, under review)
+[3] Hong Wang *(Advisor)*, ***<u>Yixin Wang</u>***, Menglong Liu, Ben Niu\*, Tianwei Zhou. "A Population based Bacterial Colony Optimization with Dynamic Multi-Leader Co-evolution for Multi-Objective Optimization Problems." (Under review)
 
-[4] Hong Wang *(Advisor)*, ***<u>Yixin Wang</u>***, Sili Wen, Ben Niu\*. "Multi-objective Stochastic Service Network Optimization for Resource Allocation in Medical Alliance." (SCI, under review)
+[4] Hong Wang *(Advisor)*, ***<u>Yixin Wang</u>***, Sili Wen, Ben Niu\*. "Multiobjective Queueing Service Network Optimization for Resource Allocation in a Hierarchical Medical System." (Under review)
 
-[5] Ben Niu *(Advisor)*, Bowen Xue, ***<u>Yixin Wang*(Corresponding)</u>***. "Spectral Analysis and Optimization of Thermal Emitter in Thermophotovoltaic Technology via NSGA-II." (SCI, under review).
+[5] Ben Niu *(Advisor)*, Bowen Xue, ***<u>Yixin Wang*(Corresponding)</u>***. "Spectral Analysis and Optimization of Thermal Emitter in Thermophotovoltaic Technology via NSGA-II." (Under review).
 
 ### @Conference Papers:
 
@@ -119,10 +122,6 @@ redirect_from:
 ----
 * 🙋‍♂️ **Conference Reviewer** (At present)
   * Serve as a reviewer for International Conference on Swarm Intelligence
-
-* 🙋‍♂️ **Research Assistant** (2021.03 ~ 2022.03)
-  * Greater Bay Area International Institute for Innovation, Shenzhen University
-  * Duties: Assistance and arrangement of teaching and research activities; Promotion, Publicity
 
 * 🙋‍♂️ **Peer Counseling Rep** (2016.10 ~ 2020.06)
   * Industrial Engineering 2016 Class
