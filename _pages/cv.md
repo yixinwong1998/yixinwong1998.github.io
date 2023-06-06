@@ -16,7 +16,7 @@ redirect_from:
     &nbsp;
     [<a href="/files/CV/yixinwangCVEN23.pdf">Yixin WANG-CV.pdf</a>]
     &nbsp;
-    [<a href="/files/CV/yixinwangCVCN.pdf">王亿鑫个人简历.pdf</a>]
+    [<a href="/files/CV/yixinwangCVCN23.pdf">王亿鑫个人简历.pdf</a>]
 </b>
 
 ----
