@@ -47,13 +47,12 @@ author_profile: true
     </td>
   </tr>
 </table>
-
 <table style="width:100%;border:None;border-spacing:0px;border-collapse:separate;margin-right:0;margin-left:0;font-size:0.95em;">
   <tr>
     <td style="padding:10px;width:70%;vertical-align:middle;border-right:none;border-bottom:none;">
-      <b>A Population based Bacterial Colony Optimization with Dynamic Multi-Leader Co-evolution for Multi-Objective Optimization Problems</b>
+      <b>An Enhanced Bacterial Colony Optimization with Dynamic Multi-leader Co-evolution for Multiobjective Optimization Problems</b>
       <br>
-      Hong Wang (Advisor), <u><b><i>Yixin Wang</i></b></u>, Menglong Liu, Ben Niu*, Tianwei Zhou. <i><b>(Under review)</b></i>.
+      Hong Wang (Advisor), <u><b><i>Yixin Wang</i></b></u>, Menglong Liu, Tianwei Zhou, Ben Niu*. <i><b>(Accepted, Expert Systems, JCR Q2, IF: 3.30)</b></i>.
       <br>
       [<a href="\../files/MBCODML.pdf">PPT</a>]
     </td>
@@ -64,6 +63,7 @@ author_profile: true
     </td>
   </tr>
 </table>
+
 
 <table style="width:100%;border:None;border-spacing:0px;border-collapse:separate;margin-right:0;margin-left:0;font-size:0.95em;">
   <tr>

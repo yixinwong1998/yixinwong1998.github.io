@@ -76,7 +76,7 @@ redirect_from:
 
 [2] Shuang Geng *(Advisor)*, Xiaofu He, ***<u>Yixin Wang</u>***, Hong Wang, Ben Niu, Kris M. Law. "Multicriteria Recommendation Based on Bacterial Foraging Optimization." **International Journal of Intelligent Systems** 37, no. 2 (2022): 1618-1645. (***JCR Q1, IF: 8.993***)
 
-[3] Hong Wang *(Advisor)*, ***<u>Yixin Wang</u>***, Menglong Liu, Ben Niu\*, Tianwei Zhou. "A Population based Bacterial Colony Optimization with Dynamic Multi-Leader Co-evolution for Multi-Objective Optimization Problems." (Under review)
+[3] Hong Wang *(Advisor)*, ***<u>Yixin Wang</u>***, Menglong Liu, Tianwei Zhou, Ben Niu\*. "An Enhanced Bacterial Colony Optimization with Dynamic Multi-leader Co-evolution for Multiobjective Optimization Problems." (***Accepted***, **Expert Systems**, ***JCR Q2, IF: 3.30***)
 
 [4] Hong Wang *(Advisor)*, ***<u>Yixin Wang</u>***, Sili Wen, Ben Niu\*. "Multiobjective Queueing Service Network Optimization for Resource Allocation in a Hierarchical Medical System." (Under review)
 

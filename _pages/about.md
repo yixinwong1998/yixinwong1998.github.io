@@ -23,13 +23,14 @@ Yixin's recent research interests include **Intelligent Optimization**; **Machin
 ### Contact me via:
 <i class="fa fa-fw fa-envelope"></i> <font style="font-size: 0.9em;">Mail: <a href="mailto:yixinwong1998@gmail.com">yixinwong1998@gmail.com</a> or <a href="mailto:wangyixin2020@email.szu.edu.cn">wangyixin2020@email.szu.edu.cn</a></font>
 <br>
-<i class="fa fa-fw fa-phone"></i> <font style="font-size: 0.9em;">Mobile: +86 15218983737</font>
+<i>Please feel free to contact me if we have common interests!</i> 🥰🥰🥰
 
 <h2 style="color: rgb(231, 65, 65);"><b>News:</b></h2>
 <div style="line-height: 1.5em; font-size: 0.95em">
   <p>
-  <b>[11/2022]</b> A long paper was accepted by <b>high-level artificial intelligence journal <u><i>International Journal of Intelligent Systems</i></u>, (JCR Q1, IF 8.993)</b>. The online version and code will release soon!!!<br>
-  <b>[07/2022]</b> Work on "Multi-objective Bacterial Colony Optimization Based on Multi-subsystem for Environmental Economic Dispatching" was granted as <i><b>"The Best Paper"</b></i> in **ICSI 2022**.<br>
+  <b>[07/2023]</b> A long paper was accepted by reputed journal <b><u><i>Expert Systems</i></u>, (JCR Q2, IF 3.30)</b>.<br>
+  <b>[11/2022]</b> A long paper was accepted by high-level artificial intelligence journal <b><u><i>International Journal of Intelligent Systems</i></u>, (JCR Q1, IF 8.993)</b>. The online version and code will release soon!<br>
+  <b>[07/2022]</b> Work on "Multi-objective Bacterial Colony Optimization Based on Multi-subsystem for Environmental Economic Dispatching" was granted as <i><b>"The Best Paper"</b></i> in <i><b>ICSI 2022</b></i>.<br>
   <b>[05/2022]</b> Work on "Multi-objective Bacterial Colony Optimization Based on Multi-subsystem for Environmental Economic Dispatching" was accepted by <i><b>ICSI 2022</b></i>.<br>
   <b>[10/2021]</b> Work on "Multicriteria Recommendation Based on Bacterial Foraging Optimization" was accepted by <i><b>International Journal of Intelligent Systems</b></i>.<br>
   <b>[05/2021]</b> Work on "A Multi-objective Structure Variant Bacterial Heuristic Feature Selection Method in High-dimensional Data Classification" was accepted by <i><b>DMBD 2021</b></i>.<br>
@@ -40,6 +41,7 @@ Yixin's recent research interests include **Intelligent Optimization**; **Machin
   <b>[06/2020]</b> I received my B.S. degree from Dongguan University of Technology.<br>
   </p>
 </div>
+
 
 ## 😂😂😂😂**THANK YOU!**🤣🤣🤣🤣
 
