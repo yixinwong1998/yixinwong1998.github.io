@@ -35,6 +35,7 @@ author_profile: true
 * 🧱 2021.10.14 – 2021.10.18
 * **Advisor:** Prof. Ben Niu
 * **Key Accomplishment:** \
+ **@ Postgraduate group, Second Prize, Rank: 290/4021.** \
  **@** We solve a *living supplies distribution problem* during COVID-19 pandemic. The number of mult-echelon living supplies distribution spots and their locations are estimated and determined based on regional geographic and population information of Changchun city. Further, an intelligent agent is trained based on *offline RL* for the number of supplies issued. 
 * **Works:** \
   **@** Funding application; \
@@ -51,6 +52,7 @@ author_profile: true
 * 🥊 2021.11.25 – 2021.11.29
 * **Advisor:** Prof. Ben Niu
 * **Key Accomplishment:** \
+  **@ Postgraduate group, Second Prize.** \
   **@**	This is a *materials combination optimization* problem to satisfy design requirements. The relationship between the emission spectra and material properties of single- and multi- layer are studied respectively. We give the optimal design solution under different emission spectrum requirements via *constructing, solving corresponding optimization models*.
 * **Works:** \
   **@** Implementation and solving for single- and multi- layer structure optimization model; \
@@ -66,6 +68,7 @@ author_profile: true
 * 🧱 2021.10.14 – 2021.10.18
 * **Advisor:** Prof. Ben Niu
 * **Key Accomplishment:** \
+ **@ Postgraduate group, Third Prize.** \
  **@** We provide a stable solution for drugs candidates identification that simultaneously optimizes both bioactivity and ADMET properties. Based on the information provided for ERα antagonists, *quantitative prediction model* for compound bioactivity and *categorical prediction model* for ADMET properties are constructed, respectively.
 * **Works:** \
   **@** Data preprocessing, Feature fusion prediction model construction. \
