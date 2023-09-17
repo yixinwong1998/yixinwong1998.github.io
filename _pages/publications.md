@@ -11,6 +11,26 @@ author_profile: true
 <table style="width:100%;border:None;border-spacing:0px;border-collapse:separate;margin-right:0;margin-left:0;font-size:0.95em;">
   <tr>
     <td style="padding:10px;width:70%;vertical-align:middle;border-right:none;border-bottom:none;">
+      <b>An Enhanced Bacterial Colony Optimization with Dynamic Multi-leader Co-evolution for Multiobjective Optimization Problems</b>
+      <br>
+      Hong Wang (Advisor), <u><b><i>Yixin Wang</i></b></u>, Menglong Liu, Tianwei Zhou, Ben Niu*. 
+      <br>
+      <i><b>Expert Systems</b></i>, e13410, (2023). (<b>JCR Q2, IF: 3.30</b>).
+      <br>
+      [<a href="\../files/An enhanced bacterial colony optimization with dynamic multi-leader co-evolution for multiobjective optimization problems.pdf">PDF</a>]
+      [<a href=" https://doi.org/10.1111/exsy.13410">Link</a>]
+    </td>
+    <td style="padding:10px;width:30%;vertical-align:middle;border-right:none;border-bottom:none;">
+      <a href="/images/MOO.png">
+      <img src='/images/MOO.png' width="280">
+      </a>
+    </td>
+  </tr>
+</table>
+
+<table style="width:100%;border:None;border-spacing:0px;border-collapse:separate;margin-right:0;margin-left:0;font-size:0.95em;">
+  <tr>
+    <td style="padding:10px;width:70%;vertical-align:middle;border-right:none;border-bottom:none;">
       <b>Semisupervised Bacterial Heuristic Feature Selection Algorithm for High-Dimensional Classification with Missing Labels</b>
       <br>
       Hong Wang (Advisor), Yikun Ou, <u><b><i>Yixin Wang</i></b></u>, Tongtong Xing, Lijing Tan*.
@@ -47,23 +67,6 @@ author_profile: true
     </td>
   </tr>
 </table>
-<table style="width:100%;border:None;border-spacing:0px;border-collapse:separate;margin-right:0;margin-left:0;font-size:0.95em;">
-  <tr>
-    <td style="padding:10px;width:70%;vertical-align:middle;border-right:none;border-bottom:none;">
-      <b>An Enhanced Bacterial Colony Optimization with Dynamic Multi-leader Co-evolution for Multiobjective Optimization Problems</b>
-      <br>
-      Hong Wang (Advisor), <u><b><i>Yixin Wang</i></b></u>, Menglong Liu, Tianwei Zhou, Ben Niu*. <i><b>(Accepted, Expert Systems, JCR Q2, IF: 3.30)</b></i>.
-      <br>
-      [<a href="\../files/MBCODML.pdf">PPT</a>]
-    </td>
-    <td style="padding:10px;width:30%;vertical-align:middle;border-right:none;border-bottom:none;">
-      <a href="/images/MOO.png">
-      <img src='/images/MOO.png' width="280">
-      </a>
-    </td>
-  </tr>
-</table>
-
 
 <table style="width:100%;border:None;border-spacing:0px;border-collapse:separate;margin-right:0;margin-left:0;font-size:0.95em;">
   <tr>

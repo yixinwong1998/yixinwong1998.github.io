@@ -14,7 +14,7 @@ redirect_from:
 <b style="font-size: 1.8em;">
     PDF:
     &nbsp;
-    [<a href="/files/CV/yixinwangCVEN23.pdf">Yixin WANG-CV.pdf</a>]
+    [<a href="/files/CV/CVen.pdf">Yixin WANG-CV.pdf</a>]
     &nbsp;
     [<a href="/files/CV/yixinwangCVCN23.pdf">王亿鑫个人简历.pdf</a>]
 </b>
@@ -22,7 +22,7 @@ redirect_from:
 ----
 ## Education
 ----
-* 👨‍💻 Step. 2020 - Present
+* 👨‍💻 Step. 2020 - 2023
 * M.S. in Management Science and Engineering, [College of Management](http://cm.szu.edu.cn/), [Shenzhen University](https://en.szu.edu.cn/)
   * GPA: **3.52/4.5 (85.9/100)**
   * Supervisor: [Prof. Hong Wang](https://ma.szu.edu.cn/szll1/axx/glkxx/wh.htm)
@@ -38,7 +38,7 @@ redirect_from:
 * 💻 **MATLAB** Scientific Computing and Simulation; 
 * 🔐 **Pytorch** Deep Learning implementation framework and **common DS frameworks**;
 * 💾 **Linux/Shell** OS & Batch script; 
-* ✍ **SPSS** statistical analysis; **Latex** writing; **AutoCAD** computer aided drawing; ……
+* ✍ **SPSS** statistical analysis; **Latex** writing; **AutoCAD** computer aided drawing;...
 * 💖 *(Good at and willing to explore and learn new computer-aided technologies, technology enthusiasts)*
 ### QUALIFICATIONS & CERTIFICATES: Trainee Industrial Engineer, Anonymous Reviewer of ICSI
 
@@ -72,11 +72,11 @@ redirect_from:
 ---
 ### @Journal Papers:
 
-[1] Hong Wang *(Advisor)*, Yikun Ou, ***<u>Yixin Wang</u>***, Tongtong Xing, Lijing Tan\*. "Semisupervised Bacterial Heuristic Feature Selection Algorithm for High-Dimensional Classification with Missing Labels." **International Journal of Intelligent Systems**, 2023, (2023). (***JCR Q1, IF: 8.993***)
+[1] Hong Wang *(Advisor)*, ***<u>Yixin Wang</u>***, Menglong Liu, Tianwei Zhou, Ben Niu\*. "An Enhanced Bacterial Colony Optimization with Dynamic Multi-leader Co-evolution for Multiobjective Optimization Problems." **Expert Systems**, e13410, (2023).  (***JCR Q2, IF: 3.30***)
 
-[2] Shuang Geng *(Advisor)*, Xiaofu He, ***<u>Yixin Wang</u>***, Hong Wang, Ben Niu, Kris M. Law. "Multicriteria Recommendation Based on Bacterial Foraging Optimization." **International Journal of Intelligent Systems** 37, no. 2 (2022): 1618-1645. (***JCR Q1, IF: 8.993***)
+[2] Hong Wang *(Advisor)*, Yikun Ou, ***<u>Yixin Wang</u>***, Tongtong Xing, Lijing Tan\*. "Semisupervised Bacterial Heuristic Feature Selection Algorithm for High-Dimensional Classification with Missing Labels." **International Journal of Intelligent Systems**, 2023, (2023). (***JCR Q1, IF: 8.993***)
 
-[3] Hong Wang *(Advisor)*, ***<u>Yixin Wang</u>***, Menglong Liu, Tianwei Zhou, Ben Niu\*. "An Enhanced Bacterial Colony Optimization with Dynamic Multi-leader Co-evolution for Multiobjective Optimization Problems." (***Accepted***, **Expert Systems**, ***JCR Q2, IF: 3.30***)
+[3] Shuang Geng *(Advisor)*, Xiaofu He, ***<u>Yixin Wang</u>***, Hong Wang, Ben Niu, Kris M. Law. "Multicriteria Recommendation Based on Bacterial Foraging Optimization." **International Journal of Intelligent Systems** 37, no. 2 (2022): 1618-1645. (***JCR Q1, IF: 8.993***)
 
 [4] Hong Wang *(Advisor)*, ***<u>Yixin Wang</u>***, Sili Wen, Ben Niu\*. "Multiobjective Queueing Service Network Optimization for Resource Allocation in a Hierarchical Medical System." (Under review)
 
