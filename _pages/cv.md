@@ -14,7 +14,7 @@ redirect_from:
 <b style="font-size: 1.8em;">
     PDF:
     &nbsp;
-    [<a href="/files/CV/CVen.pdf">Yixin WANG-CV.pdf</a>]
+    [<a href="/files/CV/CV - Yixin WANG.pdf">Yixin WANG-CV.pdf</a>]
     &nbsp;
     [<a href="/files/CV/yixinwangCVCN23.pdf">王亿鑫个人简历.pdf</a>]
 </b>
@@ -25,7 +25,7 @@ redirect_from:
 * 👨‍💻 Step. 2020 - 2023
 * M.S. in Management Science and Engineering, [College of Management](http://cm.szu.edu.cn/), [Shenzhen University](https://en.szu.edu.cn/)
   * GPA: **3.52/4.5 (85.9/100)**
-  * Supervisor: [Prof. Hong Wang](https://ma.szu.edu.cn/szll1/axx/glkxx/wh.htm)
+  * Supervisor: [Prof. Hong Wang](https://cm.szu.edu.cn/Faculty/Management_Science/WANG_Hong.htm)
 * 👨‍🎓 Step. 2016 - Jun. 2020
 * B.S. in Industrial Engineering, [School of Mechanical Engineering](https://jxx.dgut.edu.cn/), [Dongguan University of Technology](https://www.dgut.edu.cn/)
   * GPA: **3.90/5.0**  Rank: **1/123**

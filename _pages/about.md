@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hiya! Welcome to Yixin Wang~ 🌞🌞🌞"
+title: "Hiya! Welcome to Yixin Wang's Space~ 🌞🌞🌞"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -12,7 +12,7 @@ redirect_from:
 ![MSc](https://img.shields.io/badge/M.S.-Shenzhen University(2020--2023)-brightgreen?style=flat-square&color=181717&labelColor=blueviolet)
 # Glad to meet you~
 
-Yixin completed his M.S. study at [College of Management](http://cm.szu.edu.cn/), [Shenzhen University, SZU](https://en.szu.edu.cn/) (*Management Science and Engineering MSE, 2020-2023*), supervised by [Prof. Hong Wang](https://ma.szu.edu.cn/szll1/axx/glkxx/wh.htm) in [Intelligent Management & Cross Innovation Team](https://mp.weixin.qq.com/s/wvfn8Upxj9f22lMPOzTy2w) led by [Prof. Ben Niu](https://ma.szu.edu.cn/szll1/axx/glkxx/nb.htm). Before that, he received his B.Sc degree from [School of Mechanical Engineering](https://jxx.dgut.edu.cn/), [Dongguan University of Technology, DGUT](https://www.dgut.edu.cn/) (*Industrial Engineering IE, 2016-2020*).
+Yixin completed his M.S. study at [College of Management](http://cm.szu.edu.cn/), [Shenzhen University, SZU](https://en.szu.edu.cn/) (*Management Science and Engineering MSE, 2020-2023*), supervised by [Prof. Hong Wang](https://cm.szu.edu.cn/Faculty/Management_Science/WANG_Hong.htm) in [Intelligent Management & Cross Innovation Team](https://mp.weixin.qq.com/s/wvfn8Upxj9f22lMPOzTy2w) led by [Prof. Ben Niu](https://cm.szu.edu.cn/Faculty/Management_Science/NIU_Ben.htm). Before that, he received his B.Sc degree from [School of Mechanical Engineering](https://jxx.dgut.edu.cn/), [Dongguan University of Technology, DGUT](https://en.dgut.edu.cn/) (*Industrial Engineering IE, 2016-2020*).
 
 *<u>Suffering is a great teacher to sharpen your will, think independently, think critically. Don't be afraid of anything, try it!</u>*
 
